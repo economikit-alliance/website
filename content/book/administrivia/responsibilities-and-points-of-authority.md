@@ -14,17 +14,3 @@ description: >-
   * pospi is admin \(need more volunteers\)
   * data can be periodically backed up via export functionality
   * invites are currently not enabled, but interested parties can request to join
-
-# Editing this website
-
-The workflow between HackMD and Github is slightly awkward, but should be workable.
-
-# Building this website
-
-- Install Hugo. Easiest way is to get a binary from [the releases page](https://github.com/gohugoio/hugo/releases). You will need Hugo **Extended** v0.66 or above.
-- Run `git clone git@github.com:economikit-alliance/handbook.git --recursive` option to clone the repo with all submodules.
-- Run `hugo` from the newly cloned folder to build the website, or `hugo serve` to spin up a development server.
-
-## Publishing
-
-TODO
