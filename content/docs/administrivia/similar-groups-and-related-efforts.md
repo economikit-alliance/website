@@ -10,7 +10,9 @@ tags: context
 * [Open App Ecosystem](https://www.loomio.org/g/exAKrBUp/open-app-ecosystem) \(similar umbrella organisation\)
 * [Open Cooperative Ecosystem](https://opencoopecosystem.net/) \(similar umbrella organisation with a cooperative flavour\)
 * [Scuttlebutt OpenCollective](https://frontend.opencollective.com/secure-scuttlebutt-consortium) \(similar funding group / OSS innovation mission\)
+* [Terran](https://www.terran.io/) \(exceptionally detailed data-driven cultural exploration work\)
 * [The Amber Initiative](https://www.amberinitiative.com/) \(fund management group interested in REA\)
+* [Hypergroove](https://www.hypergroove.org/) \(platforms for regenerative societies built on resource flow accounting\)
 
 ### Distributed governance manuals & social architectures
 
