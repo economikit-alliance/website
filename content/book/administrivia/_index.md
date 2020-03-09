@@ -1,3 +1,7 @@
+---
+tags: administrivia
+---
+
 # Administrivia
 
 * [Software tools & points of authority]({{< relref "/book/administrivia/responsibilities-and-points-of-authority" >}})
