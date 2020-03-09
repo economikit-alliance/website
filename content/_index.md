@@ -4,6 +4,8 @@ tags: website
 type: docs
 ---
 
+An alliance of strategists and ethicists driving responsible stewardship of the Holochain ecosystem and its intersection with other "next economy" projects.
+
 ## Strategic Direction
 
 - [Core beliefs and principles]({{< relref "/book/strategic-direction/core-beliefs-and-principles" >}})
