@@ -3,16 +3,15 @@ tags: todo
 robots: noindex, nofollow
 ---
 
-# \[import from gDocs\]
+# To do
 
-## To do
-
-* Agree as a group on a document collaboration platform \(eg. migrating this document to [Gitbook](http://gitbook.com/), Cryptpad or other platform\)
+* Put something other than our to-do list on this page :P
+* Agree as a group on a document collaboration platform
 * Agree as a group on a communication / asynchronous discussion tool
-* Need others to create CoMakery accounts and advise as to email address so that pospi can add admins to the HoloREA project & assign batches.
-  * Governance conversation: who should have admin access? \(suggest me, Lynn & Bob for HoloREA\)
-* Need to author good project descriptions for both HoloREA and ValueFlows-UI
-* Need to create good branding imagery for both HoloREA and ValueFlows-UI
+* Need others to create CoMakery accounts and advise as to email address so that pospi can add admins to the Holo-REA project & assign batches.
+  * Governance conversation: who should have admin access?
+* Need to author good project descriptions for both Holo-REA and ValueFlows-UI
+* Need to create good branding imagery for both Holo-REA and ValueFlows-UI
   * \(should probably make a batch for this and throw a bounty in there to coax a designer into doing it?\)
   * \(Anyone know a good graphic designer?\)
 * Create some task batches for stuff we need to do internally within the group \(incl. the above\)
@@ -20,7 +19,7 @@ robots: noindex, nofollow
 \(for later\)
 
 * Find someone to make nice videos, or record project demo videos
-  * Build some UIs for HoloREA that would actually make this impressive; I suggest a work logging and inventory management UI which update in real time response to each other
+  * Build some UIs for Holo-REA that would actually make this impressive; I suggest a work logging and inventory management UI which update in real time response to each other
   * Batch for wider community: graphql subscriptions API for Holochain apps
 
 ## Random things to think about
