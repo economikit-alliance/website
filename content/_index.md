@@ -19,12 +19,6 @@
   * [Meeting and facilitation processes](governance-handbook/internal-responsibilities-processes-and-procedures/meeting-and-facilitation-processes.md)
   * [Psychological safety](governance-handbook/internal-responsibilities-processes-and-procedures/psychological-safety.md)
 
-## Resource Economies
-
-* [Holo-REA: potential integrations](resource-economies/holo-rea-potential-integrations.md)
-
-## Reputation Economies
-
 ## Administrivia
 
 * [Software tools & points of authority](administrivia/responsibilities-and-points-of-authority.md)
