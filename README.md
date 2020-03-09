@@ -18,8 +18,11 @@ If you're interested in joining our collective or would like to be involved, ple
 
 - Install Hugo. Easiest way is to get a binary from [the releases page](https://github.com/gohugoio/hugo/releases). You will need Hugo **Extended** v0.66 or above.
 - Run `git clone git@github.com:economikit-alliance/handbook.git --recursive` option to clone the repo with all submodules.
-- Run `hugo` from the newly cloned folder to build the website, or `hugo serve` to spin up a development server.
+- Run `hugo serve` to spin up a development server.
 
 ## Publishing
 
-TODO
+- `cd public && git pull` to get the latest compiled version deployed to gh-pages
+- Run `hugo` from *this* directory to rebuild the website
+- `cd public` and commit & push as usual
+- Also `git add public` and commit the submodule change in the main repo after pushing the `public` repository
