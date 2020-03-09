@@ -1,6 +1,7 @@
-# Table of contents
-
-* [\[import from gDocs\]](README.md)
+---
+title: Homepage
+tags: website
+---
 
 ## Strategic Direction
 
@@ -18,12 +19,6 @@
   * [Autonomy, accountability and delegated authority](governance-handbook/internal-responsibilities-processes-and-procedures/autonomy-accountability-and-delegated-authority.md)
   * [Meeting and facilitation processes](governance-handbook/internal-responsibilities-processes-and-procedures/meeting-and-facilitation-processes.md)
   * [Psychological safety](governance-handbook/internal-responsibilities-processes-and-procedures/psychological-safety.md)
-
-## Resource Economies
-
-* [Holo-REA: potential integrations](resource-economies/holo-rea-potential-integrations.md)
-
-## Reputation Economies
 
 ## Administrivia
 

@@ -1,3 +1,7 @@
+---
+tags: administrivia, todo
+---
+
 # Group members, interests and roles
 
 * **Marketing**: Tom, Sid

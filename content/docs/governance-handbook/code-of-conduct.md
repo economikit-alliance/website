@@ -1,3 +1,7 @@
+---
+tags: governance, ethics, todo
+---
+
 # Code of conduct
 
 ## **Guardrails in place**

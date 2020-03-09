@@ -1,3 +1,7 @@
+---
+tags: strategy, inquiry, ethics, todo
+---
+
 # Guiding questions
 
 ### Strategic questions

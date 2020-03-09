@@ -1,3 +1,8 @@
+---
+tags: todo
+robots: noindex, nofollow
+---
+
 # \[import from gDocs\]
 
 ## To do

@@ -1,3 +1,7 @@
+---
+tags: governance, ethics, todo
+---
+
 # Psychological safety
 
 * anonymous feedback mechanisms?
