@@ -1,29 +1,30 @@
 ---
 title: Homepage
 tags: website
+type: docs
 ---
 
 ## Strategic Direction
 
-* [High-level goals of the collective](strategic-direction/high-level-project-goals.md)
-* [Core beliefs and principles](strategic-direction/core-beliefs-and-principles.md)
-* [Guiding questions](strategic-direction/guiding-questions.md)
+- [Core beliefs and principles]({{< relref "/book/strategic-direction/core-beliefs-and-principles" >}})
+- [High level goals of the collective]({{< relref "/book/strategic-direction/high-level-project-goals" >}})
+- [Guiding questions]({{< relref "/book/strategic-direction/guiding-questions" >}})
 
 ## Governance Handbook
 
-* [How to join the collective](governance-handbook/how-to-join-the-collective.md)
-* [Code of conduct](governance-handbook/code-of-conduct.md)
-* [External operating procedures](governance-handbook/external-operating-procedures/README.md)
-  * [Managing expressions of interest](governance-handbook/external-operating-procedures/managing-expressions-of-interest.md)
-* [Internal responsibilities, processes & procedures](governance-handbook/internal-responsibilities-processes-and-procedures/README.md)
-  * [Autonomy, accountability and delegated authority](governance-handbook/internal-responsibilities-processes-and-procedures/autonomy-accountability-and-delegated-authority.md)
-  * [Meeting and facilitation processes](governance-handbook/internal-responsibilities-processes-and-procedures/meeting-and-facilitation-processes.md)
-  * [Psychological safety](governance-handbook/internal-responsibilities-processes-and-procedures/psychological-safety.md)
+* [How to join the collective]({{< relref "/book/governance-handbook/how-to-join-the-collective" >}})
+* [Code of conduct]({{< relref "/book/governance-handbook/code-of-conduct" >}})
+* [External operating procedures]({{< relref "/book/governance-handbook/external-operating-procedures" >}})
+  * [Managing expressions of interest]({{< relref "/book/governance-handbook/external-operating-procedures/managing-expressions-of-interest" >}})
+* [Internal responsibilities, processes & procedures]({{< relref "/book/governance-handbook/internal-responsibilities-processes-and-procedures" >}})
+  * [Autonomy, accountability and delegated authority]({{< relref "/book/governance-handbook/internal-responsibilities-processes-and-procedures/autonomy-accountability-and-delegated-authority" >}})
+  * [Meeting and facilitation processes]({{< relref "/book/governance-handbook/internal-responsibilities-processes-and-procedures/meeting-and-facilitation-processes" >}})
+  * [Psychological safety]({{< relref "/book/governance-handbook/internal-responsibilities-processes-and-procedures/psychological-safety" >}})
 
 ## Administrivia
 
-* [Software tools & points of authority](administrivia/responsibilities-and-points-of-authority.md)
-* [Group members, interests and roles](administrivia/group-members-interests-and-roles.md)
-* [Noteworthy links](administrivia/noteworthy-links.md)
-* [Similar groups & related efforts](administrivia/similar-groups-and-related-efforts.md)
+* [Software tools & points of authority]({{< relref "/book/administrivia/responsibilities-and-points-of-authority" >}})
+* [Group members, interests and roles]({{< relref "/book/administrivia/group-members-interests-and-roles" >}})
+* [Noteworthy links]({{< relref "/book/administrivia/noteworthy-links" >}})
+* [Similar groups & related efforts]({{< relref "/book/administrivia/similar-groups-and-related-efforts" >}})
 

@@ -7,3 +7,4 @@ tags: governance, protocol, todo
 
 # External operating procedures
 
+- [Managing expressions of interest]({{< relref "/book/governance-handbook/external-operating-procedures/managing-expressions-of-interest" >}})
