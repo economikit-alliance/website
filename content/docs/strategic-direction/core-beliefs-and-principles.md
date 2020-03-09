@@ -1,3 +1,7 @@
+---
+tags: ethics, ideology, todo
+---
+
 # Core beliefs and principles
 
 * The future is female. We aim to embody and spread the adoption of feminine technologies, organising principles, social norms and regenerative design patterns.

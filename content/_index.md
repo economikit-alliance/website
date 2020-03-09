@@ -1,6 +1,7 @@
-# Table of contents
-
-* [\[import from gDocs\]](README.md)
+---
+title: Homepage
+tags: website
+---
 
 ## Strategic Direction
 

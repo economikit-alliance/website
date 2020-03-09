@@ -1,3 +1,7 @@
+---
+tags: strategy, todo
+---
+
 # High-level goals of the collective
 
 _\(these came from Holo-REA originally, so I expect they'll need to be extended or massaged...\)_

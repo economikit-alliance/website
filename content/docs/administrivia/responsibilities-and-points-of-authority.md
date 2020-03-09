@@ -1,4 +1,5 @@
 ---
+tags: administrivia
 description: >-
   A registry of all the access rights, tools etc that we're using and who to go
   to for access.

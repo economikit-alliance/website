@@ -1,4 +1,8 @@
-# Similar groups & related efforts
+---
+tags: context
+---
+
+# Similar groups, related efforts & inspirations
 
 ### Groups & organisations
 

@@ -3,6 +3,7 @@ description: >-
   This page details our mechanisms for federated and fluid governance of the
   collective, where members may freely self-organise into working groups to
   address specific issues.
+tags: governance, protocol, culture, todo
 ---
 
 # Autonomy, accountability and delegated authority
