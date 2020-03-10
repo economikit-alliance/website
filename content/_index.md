@@ -6,6 +6,8 @@ type: docs
 
 An alliance of strategists and ethicists driving responsible stewardship of the Holochain ecosystem and its intersection with other "next economy" projects.
 
+**This is a work in progress**, presented here in its nascent form to uphold an ethic of transparency. The dialogue driving the creation of this handbook starts within our [Loomio group](https://www.loomio.org/economikit/) and is publicly browsable if you would like engage with us further.
+
 ## Strategic Direction
 
 - [Core beliefs and principles]({{< relref "/book/strategic-direction/core-beliefs-and-principles" >}})
