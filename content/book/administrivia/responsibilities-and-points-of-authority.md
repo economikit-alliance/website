@@ -8,9 +8,10 @@ description: >-
 # Software tools & points of authority
 
 * This Website:
-  - pospi is admin \(need more volunteers\)
   * Editable [on Github](https://github.com/economikit-alliance/handbook) and via [HackMD organisation](https://hackmd.io/team/economikit-alliance)
+  - pospi and Siddharth are Github admins (able to publish the website)
+  - pospi and Siddharth are HackMD admins (able to invite new co-authors & collaborators)
 * [Loomio group](https://www.loomio.org/g/ZB4d7VpJ/economikit):
-  * pospi is admin \(need more volunteers\)
+  * pospi and Siddharth are admins
   * data can be periodically backed up via export functionality
   * invites are currently not enabled, but interested parties can request to join
