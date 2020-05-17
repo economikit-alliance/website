@@ -4,7 +4,7 @@ tags: strategy, todo
 
 # High-level goals of the collective
 
-_\(these came from Holo-REA originally, so I expect they'll need to be extended or massaged...\)_
+> [name=pospi] Todo: these came from Holo-REA originally, so I expect they'll need to be extended or massaged...
 
 * Enable groups of any kind to create and own their economic and social independence.
 * Create the most powerful software available for coordinating & managing resources and people.
