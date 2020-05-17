@@ -6,6 +6,7 @@ tags: governance, ethics, protocol, todo
 
 The organisation's internal culture must reflect its outward goals and ideologies.
 
-* [Autonomy, accountability and delegated authority]({{< relref "/book/governance-handbook/internal-responsibilities-processes-and-procedures/autonomy-accountability-and-delegated-authority" >}})
-* [Meeting and facilitation processes]({{< relref "/book/governance-handbook/internal-responsibilities-processes-and-procedures/meeting-and-facilitation-processes" >}})
-* [Psychological safety]({{< relref "/book/governance-handbook/internal-responsibilities-processes-and-procedures/psychological-safety" >}})
+**Active line of inquiry**: what is good about sociocracy and where are its limitations?
+
+- http://www.socialenterprise.it/index.php/2018/09/30/towards-the-human-organization/
+- http://www.socialenterprise.it/index.php/2020/04/05/sociocracy-on-the-human-organization-map/
