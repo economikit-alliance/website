@@ -15,8 +15,7 @@ tags: website
 **Governance Handbook**
 
 * [How to join the collective]({{< relref "/book/governance-handbook/how-to-join-the-collective" >}})
-* [Internal responsibilities, processes & procedures]({{< relref "/book/governance-handbook/internal-responsibilities-processes-and-procedures" >}}) *\(in progress\)*
-* External operating procedures *\(in progress\)*
+* [Internal responsibilities, processes & procedures]({{< relref "/book/governance-handbook/internal-responsibilities-processes-and-procedures" >}})
 
 [**Administrivia**]({{< relref "/book/administrivia" >}})
 
