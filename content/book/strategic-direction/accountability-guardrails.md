@@ -2,11 +2,9 @@
 tags: governance, ethics, todo
 ---
 
-# Code of conduct
+# Accountability guardrails
 
-## **Guardrails in place**
-
-_\(needs expanding, also narration on why these things are important\)_
+> [name=pospi] Todo: needs expanding, also narration on why these things are important
 
 * **accountability** \(I answer to others\)
   * \(for those using\)
@@ -33,5 +31,5 @@ _\(needs expanding, also narration on why these things are important\)_
   * re-questioning appropriateness of protocol & technology
   * receptivity to other protocols and technologies
 
-_Sid: I can add a few guardrails for economic design of the collective. For example: following a co-op structure, value accruing to instruments like credits, instead of shares \(sufficiency instead of scarcity etc.\)_
+> [name=Sid] I can add a few guardrails for economic design of the collective. For example: following a co-op structure, value accruing to instruments like credits, instead of shares \(sufficiency instead of scarcity etc.\)
 
