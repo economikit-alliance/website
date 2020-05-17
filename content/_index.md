@@ -13,6 +13,7 @@ An alliance of intersectional feminist strategists, ethicists and cultural anthr
 - [Core beliefs and principles]({{< relref "/book/strategic-direction/core-beliefs-and-principles" >}})
 - [High level goals of the collective]({{< relref "/book/strategic-direction/high-level-project-goals" >}})
 - [Guiding questions]({{< relref "/book/strategic-direction/guiding-questions" >}})
+- [Similar groups & related efforts]({{< relref "/book/strategic-direction/similar-groups-and-related-efforts" >}})
 
 ## Governance Handbook
 
@@ -27,8 +28,7 @@ An alliance of intersectional feminist strategists, ethicists and cultural anthr
 
 ## Administrivia
 
-* [Software tools & points of authority]({{< relref "/book/administrivia/responsibilities-and-points-of-authority" >}})
-* [Group members, interests and roles]({{< relref "/book/administrivia/group-members-interests-and-roles" >}})
 * [Noteworthy links]({{< relref "/book/administrivia/noteworthy-links" >}})
-* [Similar groups & related efforts]({{< relref "/book/administrivia/similar-groups-and-related-efforts" >}})
+* [Group members, interests and roles]({{< relref "/book/administrivia/group-members-interests-and-roles" >}})
+* [Software tools & points of authority]({{< relref "/book/administrivia/responsibilities-and-points-of-authority" >}})
 
