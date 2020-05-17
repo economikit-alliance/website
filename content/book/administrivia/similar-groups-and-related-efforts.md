@@ -6,7 +6,6 @@ tags: context
 
 ### Groups & organisations
 
-* [The Verdun Project](http://www.sensorica.co/home/what-we-do/projects/non-technical-projects/verdun-project)
 * [Open App Ecosystem](https://www.loomio.org/g/exAKrBUp/open-app-ecosystem) \(similar umbrella organisation\)
 * [Open Cooperative Ecosystem](https://opencoopecosystem.net/) \(similar umbrella organisation with a cooperative flavour\)
 * [Scuttlebutt OpenCollective](https://frontend.opencollective.com/secure-scuttlebutt-consortium) \(similar funding group / OSS innovation mission\)

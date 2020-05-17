@@ -14,4 +14,4 @@ description: >-
 * [Loomio group](https://www.loomio.org/g/ZB4d7VpJ/economikit):
   * pospi and Siddharth are admins
   * data can be periodically backed up via export functionality
-  * invites are currently not enabled, but interested parties can request to join
+  * interested parties can request to join via Loomio

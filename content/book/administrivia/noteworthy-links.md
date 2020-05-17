@@ -1,5 +1,6 @@
 ---
-tags: administrivia, todo
+tags: administrivia
+description: link list to stewarded / recommended project pages
 ---
 
 # Noteworthy links
