@@ -4,7 +4,7 @@ tags: governance, ethics, protocol, todo
 
 # Internal responsibilities, processes & procedures
 
-The organisation's internal culture must reflect its outward goals and ideologies.
+> The organisation's internal culture must reflect its outward goals and ideologies.
 
 **Active line of inquiry**: what is good about sociocracy and where are its limitations?
 

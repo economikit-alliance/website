@@ -7,16 +7,16 @@ tags: website
 
 **Strategic Direction**
 
-- [Core beliefs and principles]({{< relref "/book/strategic-direction/core-beliefs-and-principles" >}})
 - [High level goals of the collective]({{< relref "/book/strategic-direction/high-level-project-goals" >}})
 - [Guiding questions]({{< relref "/book/strategic-direction/guiding-questions" >}})
+- [Accountability guardrails]({{< relref "/book/strategic-direction/accountability-guardrails" >}})
+- [Similar groups & related efforts]({{< relref "/book/strategic-direction/similar-groups-and-related-efforts" >}})
 
 **Governance Handbook**
 
 * [How to join the collective]({{< relref "/book/governance-handbook/how-to-join-the-collective" >}})
-* [Code of conduct]({{< relref "/book/governance-handbook/code-of-conduct" >}})
-* [External operating procedures]({{< relref "/book/governance-handbook/external-operating-procedures" >}})
-* [Internal responsibilities, processes & procedures]({{< relref "/book/governance-handbook/internal-responsibilities-processes-and-procedures" >}})
+* [Internal responsibilities, processes & procedures]({{< relref "/book/governance-handbook/internal-responsibilities-processes-and-procedures" >}}) *\(in progress\)*
+* External operating procedures *\(in progress\)*
 
 [**Administrivia**]({{< relref "/book/administrivia" >}})
 
