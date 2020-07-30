@@ -15,7 +15,8 @@ tags: context
 
 ### Distributed governance manuals & social architectures
 
-* [https://handbook.enspiral.com/](https://handbook.enspiral.com/)
-* [https://notepad.diglife.coop/VM49u5iwTtK6j4dUaveNmA\#](https://notepad.diglife.coop/VM49u5iwTtK6j4dUaveNmA#)
-* [https://scuttlebutt.nz/docs/code-of-conduct/](https://scuttlebutt.nz/docs/code-of-conduct/)
-
+* [Design Justice Principles](https://designjustice.org/read-the-principles)
+* [DisCO Governance Model](https://disco.coop/governance-model/)
+* [The Enspiral Handbook](https://handbook.enspiral.com/)
+* [Scuttlebutt Code of Conduct](https://scuttlebutt.nz/docs/code-of-conduct/)
+* [DAO Alliance Governance](https://notepad.diglife.coop/VM49u5iwTtK6j4dUaveNmA#)
