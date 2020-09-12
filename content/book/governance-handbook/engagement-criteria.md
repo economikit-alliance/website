@@ -4,7 +4,40 @@ tags: todo, ethics, strategy
 
 # Engagement criteria
 
-[TOC]
+
+You won't find a values statement or list of our beliefs on this website. Each of us has participated in organisations that have spent many hours debating such things&mdash; a process which we have found often lacks integrity when it comes to its enactment and embodiment in daily practise.
+
+Thus, we do not think it is very interesting to talk about the beliefs we share. Instead, we think it is much more powerful to speak to *what we will do together*.
+
+The following "anchors" provide a grounding to guide us in that process. You can think of this set of criteria similarly to those you'd encounter in a job interview&mdash; everything is aspirational, and we don't expect that any organisations will be able to tick all these boxes. Rather, these are communicated here to indicate *how* we assess and prioritise potential engagements and partnerships. Compromising some values in the pursuit of others is sometimes acceptable, but only if it comes with clarity, transparency and accountability as to why we made such choices.
+
+We have also created this list because (for the first time in history, we believe) *all of these aims are technologically achievable*. The only barriers that remain are social, political and cultural... barriers which, we hope, will shift slowly as we progress through this work.
+
+
+
+
+<!-- MarkdownTOC -->
+
+- [Guiding questions](#guiding-questions)
+- [Goal anchors](#goal-anchors)
+    - [Implement contextual solutions](#implement-contextual-solutions)
+    - [Facilitate sovereignty, agency & autonomy](#facilitate-sovereignty-agency--autonomy)
+    - [Create deep wealth](#create-deep-wealth)
+    - [Practise generative finance](#practise-generative-finance)
+    - [Reduce inequity](#reduce-inequity)
+    - [Build commons](#build-commons)
+    - [Create relationships](#create-relationships)
+    - [Hold awareness for subjectivity & diversity](#hold-awareness-for-subjectivity--diversity)
+- [Constraint anchors](#constraint-anchors)
+    - [Time available](#time-available)
+    - [Sustainability of the work](#sustainability-of-the-work)
+- [Weighing anchors](#weighing-anchors)
+- [Characteristics we might articulate](#characteristics-we-might-articulate)
+
+<!-- /MarkdownTOC -->
+
+
+
 
 ## Guiding questions
 
@@ -14,16 +47,6 @@ tags: todo, ethics, strategy
 - How do you know it when you see it?
 
 
-----
-
-## Things to note when articulating this
-
-- Some of these things are in tension with each other; that's a good thing. Nobody is likely to fill them all; it's about weighting stuff.
-- THink of this like a job interview; everything is aspirational
-
-
-
-----
 
 
 
@@ -33,45 +56,59 @@ Ways in which our behaviour should direct human action, flows and potential.
 
 ### Implement contextual solutions
 
-- Implicit oppression in the "everybody ought to" / "one size fits all" of universal solutions
-- Things which do not require universal adoption to have impact are vastly more likely to succeed
-- Business models which are not based on numbers of users
-    - place-based platforms which aim to assist a single community and have no growth imperative beyond that
-    - commons-producing models that primarily aim create common works or steward natural commons, particularly where the goal is to create knowledge commons & transparency in supply chains
-    - efforts moving towards a [degrowth economy](https://www.degrowth.info/en/what-is-degrowth/) in some sense or another, particularly where the goal is to reduce complexity in the supply chain
-- Targeted, separate currency systems rather than "one to rule them all"
-- Works in a specific context or community; but is designed to be interoperable with other systems
-    - "interoperable rather than universal"; focus on connectivity
-    - fitting with modularity
+We believe that universal solutions propagate monocultures which are oppressive and harmful to places and peoples whom are typically overlooked by mainstream Western thought. We also believe that such attempts at systems change are fundamentally unlikely to succeed, and that real progress emerges from the bottom upwards.
+
+We believe that the needs and goals of communities differ, and that it is a mistake to attempt to service the needs of all. We aim to support the immediate needs of those we collaborate with whilst engendering a sensitivity to the needs of other beings and developing protocols for knowing and harmonising between different belief systems and ways of life.
+
+**We like:**
+
+- Business models which are not based on the number of users of a platform.
+- Strong protocol designs and a focus on interoperability between technologies and communities.
+- Place-based platforms which aim to assist a single community and have no growth imperative beyond that.
+
+<!-- - Commons-producing models that primarily aim create common works or steward natural commons; particularly where the goal is to create knowledge commons or transparency in supply chains.
+- Constellations of targeted, special-purpose currencies rather than singular or monolithic economic models. -->
+
+**We try to avoid:**
+
+- Utilitarian ethics and projects who believe that "everybody ought to" or "one size fits all".
+
 
 ### Facilitate sovereignty, agency & autonomy
 
-- Disperse power to those without it
-    - Decision-making and governance being retained within communities (not deferred, especially not aggregated to external forces)
-    - Member-directed, not board-directed
-    - Prefer non-hierarchical, "leaderful" governance
-    - Mandate clear articulation of necessary hierarchical structures & organisational power dynamics (it's a necessary predicate for the implementation of agent-centric tech)
-- Uphold individual & collective autonomy of technical infrastructure and data
-    - Data ownership linked to place; resilience to access in the face of infrastructural uncertainty
-    - Agency over software updates & changes
-    - Responsible management of individual & collective sovereignty / identity
-        - Loss in value when leaving a collective due to lost context; but retention of one's own data provenance
-        - Individualism is an illusion: everything is in the relational space between people
-    - Data autonomy on its own isn’t enough because the data is also linked to the context in which it is generated
-- Build sensemaking systems, not game-theoretic models
-    - Aversion to big data and AI; prefer "little data" and human reasoning
-    - Game theory & economics as a "rivalrous game"
-    - Working with usergroups to understand their needs, not designing the models as an architect
-    - ~~Game theory as a statistical / modeling tool, not an operational paradigm~~
-    - ~~Bazaars rather than global markets~~
-    - Context & awareness of externalities, rather than blind to them but (hopefully) manipulated to work in service to them
-    - Room for manouver, flexibility (agency)
-- Provide unenclosable carriers
-    - Data ownership linked to provenance; agency over sharing
-    - No eavesdropping or monitoring
-        - Self-monitoring is often a practise, but visibility of information by those outside of communities should be discouraged, and carefully considered.
-    - Self-managed keys, "social encryption", peer recovery & shamir-sharing
-    - Facilitate compassion along the whole supply chain
+We believe that many of the current injustices in the world emerge as a result of unequal power dynamics and access to information. We believe that every human being has the right to define and practise their own culture, and that such practises should be wholly held and operated under that group's own authority. We believe that agency and Place are fundamentally interwoven, and that the possibility for autonomy in technological systems depends on local access to data, without intermediaries. We acknowledge the tension between self-monitoring of data to provide insight, and data as a panopticon when handled externally or without mutually enforced ethical agreements.
+
+We believe that both individual and collective autonomy are necessary features of any generative system. We believe that technical infrastructure and data should be held both by individuals and groups, and that the needs of both must be weighted when deciding who holds which information. We believe that individualism is an illusion and that data is held in the relational space between people&mdash; data generated in a group context is less valuable when divorced from that context. We also believe that in most cases individuals should retain provenance of such data for their own records upon exiting a group.
+
+We stand with Indigenous peoples in their fight for independence and acknowledge the centuries-old struggles for sovereignty and self-determination that are still ongoing. We acknowledge that their struggles are not our own, but are interrelated; and see that in a post-911 world the harms of colonisation are becoming increasingly universal.
+
+**We require:**
+
+- Clear articulation of organisational power dynamics and decision-making processes (the technologies we use necessitate such clarity).
+
+**We like:**
+
+- Working with those "on the ground" to understand their needs rather than designing models as an 'architect' of the system.
+- Technological systems which involve humans in their operation to provide flexibility, nuance and room for manoeuvre.
+- Data ownership and individual agency over exposure and sharing.
+- Projects which create resilience in and agency over physical and digital infrastructure, and reduce dependency on external providers.
+- Self-managed encryption keys, "social encryption", and distributed access recovery without central authorities.
+- Individual control over the installation of software updates and changes.
+- Decision-making and governance processes that are retained within the communities affected by them.
+- Member-directed governance models, rather than board-directed ones.
+- [Sense-making](https://www.youtube.com/watch?v=7LqaotiGWjQ) systems and "empowerment to" design processes; human-scale reasoning. Game theory as a statistical modelling tool.
+- Bridge building and efforts to facilitate compassion between communities; especially across production supply chains.
+
+<!-- - Disperse power to those without it -->
+<!-- - Non-hierarchical, "leaderful" governance. -->
+<!-- - Context & awareness of externalities, rather than blind to them but (hopefully) manipulated to work in service to them -->
+
+**We try to avoid:**
+
+- Projects which defer decision-making processes to external forces (whether these be human, collective or AIs)
+    - Especially those where power over many is aggregated into the hands of few.
+- Eavesdropping and monitoring of communications and data by external parties.
+- Game-theoretic operational models and other "power over" design patterns; use of AI and Big Data.
 
 ### Create deep wealth
 
@@ -84,6 +121,7 @@ Ways in which our behaviour should direct human action, flows and potential.
 - Acknowledge existing value & wealth
     - Making pluralistic value forms perceptual, meaningful and actionable
     - Embrace what is already working
+    - efforts moving towards a [degrowth economy](https://www.degrowth.info/en/what-is-degrowth/) in some sense or another, particularly where the goal is to reduce complexity in the supply chain
 
 ### Practise generative finance
 
@@ -141,6 +179,10 @@ Subjectivity is an ongoing creative struggle which we aim to continually and con
 
 <!-- - Value non-productive labor; reverance for stigmergic organising principles, "soft skills", "connector" and "care" work -->
 
+
+Anti-capitalism without intersectionality is class reductionism.
+
+Intersectionality without anti-capitalism is just liberal identity politics.
 
 ----
 
