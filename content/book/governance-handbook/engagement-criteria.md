@@ -73,16 +73,19 @@ We believe that the needs and goals of communities differ, and that it is a mist
 
 **We like:**
 
+- Use of existing protocols and the creation of strong protocol designs. A focus on interoperability between technologies and communities.
+- Constellations of targeted, special-purpose currencies rather than singular or monolithic economic models.
 - Business models which are not based on the number of users of a platform.
-- Strong protocol designs and a focus on interoperability between technologies and communities.
 - Place-based platforms which aim to assist a single community and have no growth imperative beyond that.
 
-<!-- - Commons-producing models that primarily aim create common works or steward natural commons; particularly where the goal is to create knowledge commons or transparency in supply chains.
-- Constellations of targeted, special-purpose currencies rather than singular or monolithic economic models. -->
+<!-- - Commons-producing models that primarily aim create common works or steward natural commons; particularly where the goal is to create knowledge commons or transparency in supply chains. -->
 
 **We try to avoid:**
 
 - Utilitarian ethics and projects who believe that "everybody ought to" or "one size fits all".
+
+
+
 
 
 ### Facilitate sovereignty, agency & autonomy
@@ -91,14 +94,11 @@ We believe that many of the current injustices in the world emerge as a result o
 
 We believe that both individual and collective autonomy are necessary features of any generative system. We believe that technical infrastructure and data should be held both by individuals and groups, and that the needs of both must be weighted when deciding who holds which information. We believe that individualism is an illusion and that data is held in the relational space between people&mdash; data generated in a group context is less valuable when divorced from that context. We also believe that in most cases individuals should retain provenance of such data for their own records upon exiting a group.
 
-We stand with Indigenous peoples in their fight for independence and acknowledge the centuries-old struggles for sovereignty and self-determination that are still ongoing. We acknowledge that their struggles are not our own, but are interrelated; and see that in a post-911 world the harms of colonisation are becoming increasingly universal.
-
-**We require:**
-
-- Clear articulation of organisational power dynamics and decision-making processes (the technologies we use necessitate such clarity).
+We stand with Indigenous peoples in their fight for independence and acknowledge the centuries-old struggles for sovereignty and self-determination that are still ongoing. We acknowledge that their struggles are not our own, but are interrelated; and see that in a post-911, post-COVID world the harms of colonisation are becoming increasingly universal.
 
 **We like:**
 
+- Clear articulation of organisational power dynamics and decision-making processes[^agentcentrictech].
 - Working with those "on the ground" to understand their needs rather than designing models as an 'architect' of the system.
 - Technological systems which involve humans in their operation to provide flexibility, nuance and room for manoeuvre.
 - Data ownership and individual agency over exposure and sharing.
@@ -107,8 +107,8 @@ We stand with Indigenous peoples in their fight for independence and acknowledge
 - Individual control over the installation of software updates and changes.
 - Decision-making and governance processes that are retained within the communities affected by them.
 - Member-directed governance models, rather than board-directed ones.
-- [Sense-making](https://www.youtube.com/watch?v=7LqaotiGWjQ) systems and "empowerment to" design processes; human-scale reasoning. Game theory as a statistical modelling tool.
-- Bridge building and efforts to facilitate compassion between communities; especially across production supply chains.
+- Sense-making[^sensemaking] systems and "empowerment to" design processes; human-scale reasoning. Game theory as a statistical modelling tool.
+- Bridge-building and efforts to facilitate compassion between communities; especially across production supply chains.
 
 <!-- - Disperse power to those without it -->
 <!-- - Non-hierarchical, "leaderful" governance. -->
@@ -116,37 +116,67 @@ We stand with Indigenous peoples in their fight for independence and acknowledge
 
 **We try to avoid:**
 
-- Projects which defer decision-making processes to external forces (whether these be human, collective or AIs)
+- Designs which defer decision-making processes to external forces (whether these be human, collective or AIs)
     - Especially those where power over many is aggregated into the hands of few.
 - Eavesdropping and monitoring of communications and data by external parties.
 - Game-theoretic operational models and other "power over" design patterns; use of AI and Big Data.
 
+
+
+
+
 ### Create deep wealth
 
-- Leverage self-generative wealth, avoid injected capital
-    - Dropping capital on things tends to also drop hierarchy on them
-    - Avoiding money as a way of elevating from poverty
-    - Creating sufficiency, abundance & thrivability
-        - TODO: unpack these?
-    - Recurring, localised income streams
-- Acknowledge existing value & wealth
-    - Making pluralistic value forms perceptual, meaningful and actionable
-    - Embrace what is already working
-    - efforts moving towards a [degrowth economy](https://www.degrowth.info/en/what-is-degrowth/) in some sense or another, particularly where the goal is to reduce complexity in the supply chain
+We think of "deep wealth"[^deepwealth] as complementary to self-sufficiency, resilience and autonomy. We believe that money fundamentally *causes* inequity via extractive social consequences and cannot play any role other than a transitionary one in lasting solutions to ending poverty. We realise that the injection of capital also usually leads to the creation of hierarchy.
+
+**We like:**
+
+- Solutions which acknowledge existing value and wealth. Embracing what is already working.
+- Making pluralistic value forms perceptual, meaningful and actionable.
+- Turning externalities into internalities.
+- The creation of self-generative wealth and life support systems.
+- Recurring, localised income streams.
+- Efforts towards sufficiency, abundance and thrivability[^thrivability].
+- Efforts moving towards a degrowth[^degrowth] economy in some sense or another, particularly where the goal is to reduce complexity in the supply chain.
+
+**We try to avoid:**
+
+- Market-based solutionism and individualist logics.
+- Moves which rely solely on money to succeed.
+- Injected capital, equity investments and uncapped returns.
+
+
+
+
+    
 
 ### Practise generative finance
 
-- Build mutual & interest-free debt issuance systems
-- Avoid extractive funding models
-    - Preference to avoid equity-based investment entirely
-    - Limited investments with capped returns considered reasonable
-    - Private equity as a way of involving community members
-- Optimise for non-exploitative, non-extractive business models
-    - Turn externalities into internalities
+We believe that money is an important flow among the many streams of value embedded in physical and social reality. We acknowledge it as a necessity for meeting our basic needs in Capitalist society, whilst also being mindful of its social consequences and the need to move beyond it. The financial models which we engage with, adopt and employ should thus prepare those they affect for exiting the Capitalist system. This means mirroring the locally generative and resilient models of Deep Wealth, and reducing dependency on external stakeholders.
 
-> [name=pospi] *To-do: calculation of 'degrees of abstraction' from value created; formalisation of thresholds.*
+**We like:**
+
+- Optimising for non-exploitative, non-extractive business models.
+- The creation of mutual & interest-free debt issuance systems.
+- Voluntary charitable contributions.
+- Private equity as a way of nurturing communities of interest and engaging community members.
+- Capped returns on investment, and explicit articulation of extraction relative to the real (tangible) value generated.
+
+**We try to avoid:**
+
+- Debt-based issuance and loans.
+- Uncapped returns and the growth logic of Silicon Valley.
+- Extracting value from the natural environment, human interactions, data or licensing & service fees.
+
+
+
+
+
+
 
 ### Reduce inequity
+
+
 
 - Elevate marginalised demographics to reduce gaps in empowerment
 - "Nothing about us without us!"
@@ -159,6 +189,7 @@ We stand with Indigenous peoples in their fight for independence and acknowledge
 - Preference for OSS contributions
     - But we will accept paid work for proprietary contracts; need to define how that input flows back into commons-supporting or sponsorship initiatives
 - Make up-front commitments towards commons contributions, not deferring to "phase 2 & beyond" & beholden to investment / income streams
+- don't make people dependent on dev teams
 
 ### Create relationships
 
@@ -238,4 +269,67 @@ The pragmatic questions we must weigh in whenever deciding on engaging with a ne
 - while functioning in neoliberal context actually transcend it by creating agency without overly exposing agents to centralized control.
 - demonstrate that we not only want to move beyond corruption and extorting middle men but also transform the implied power relation of "aid" schemes
 - lean toward organic growth of ideal forms brought into lived practice rather than grabbing wave of opportunity to have fleeting garbage which doesn't work in practice but does bring short term visibility or funding.
+
+
+
+
+
+
+
+[^engverbs]: The English language makes this quite hard, and that says something about the nature of mainstream Western thought.
+
+[^agentcentrictech]: The use of [agent-centric technologies](https://forum.holochain.org/t/what-does-agent-centric-mean-how-is-it-different-than-data-centric/190) like [Holochain](https://holochain.org/) actually necessitates such clarity of governance.
+
+[^sensemaking]: "Sensemaking" as defined by [Daniel Schmachtenberger](https://www.youtube.com/watch?v=7LqaotiGWjQ).
+
+[^deepwealth]: "Deep wealth" [as defined by](https://www.artbrock.com/2014/12/15/deep-wealth-talk-at-new-economy-conference) Art Brock, Ferananda Ibarra, Eric Harris-Braun and Jean-François Noubel.
+
+[^thrivability]: "Thrivability" ([book](https://www.triarchypress.net/thrivability.html)) as explored in the [research of](https://www.slideshare.net/NurtureGirl/thrivability-a-collaborative-sketch-3406586/) Jean Russell.
+
+[^degrowth]: See [What is Degrowth?](https://www.degrowth.info/en/what-is-degrowth/)
+
+
+----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Value Boundaries
+
+Regenerative, local-to-global, community, relating to the great transition, love of human and more-than-human, collective wisdom, plurality, intergenerational, variety/diversity of approach
+
+Organizing approach
+
+Regional/bioregional, distributed decision making, capacity building, non-coercive, share of surplus, living systems inspired, biomimicry inspired, leaderful, contextual, both/and.
+
+Communication patterns
+
+Microsolidarity, mentorship, working with cadence, stigmergic, open mind/heart/will, non-violent
+
+Principles
+
+Commons Management, Charter for Human Rights on the Internet, Principles for a Feminist Internet, Earth Care People Care Fair Share, Community Self-determination, Localization, Degrowth
+
+
+
+
+
+
+
+
+
+
+Conflict revelation- holding conflict in a good way
+
+
 
