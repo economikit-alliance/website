@@ -5,20 +5,11 @@ tags: todo, ethics, strategy
 # Engagement criteria
 
 
-You won't find a values statement or list of our beliefs on this website. Each of us has participated in organisations that have spent many hours debating such things&mdash; a process which we have found often lacks integrity when it comes to its enactment and embodiment in daily practise.
-
-Thus, we do not think it is very interesting to talk about the beliefs we share. Instead, we think it is much more powerful to speak to *what we will do together*.
-
-The following "anchors" provide a grounding to guide us in that process. You can think of this set of criteria similarly to those you'd encounter in a job interview&mdash; everything is aspirational, and we don't expect that any organisations will be able to tick all these boxes. Rather, these are communicated here to indicate *how* we assess and prioritise potential engagements and partnerships. Compromising some values in the pursuit of others is sometimes acceptable, but only if it comes with clarity, transparency and accountability as to why we made such choices.
-
-We have also created this list because (for the first time in history, we believe) *all of these aims are technologically achievable*. The only barriers that remain are social, political and cultural... barriers which, we hope, will shift slowly as we progress through this work.
-
-
 
 
 <!-- MarkdownTOC -->
 
-- [Guiding questions](#guiding-questions)
+- [Understanding this document](#understanding-this-document)
 - [Goal anchors](#goal-anchors)
     - [Implement contextual solutions](#implement-contextual-solutions)
     - [Facilitate sovereignty, agency & autonomy](#facilitate-sovereignty-agency--autonomy)
@@ -38,13 +29,25 @@ We have also created this list because (for the first time in history, we believ
 
 
 
+## Understanding this document
 
-## Guiding questions
+You won't find a values statement or list of our beliefs on this website. Each of us has participated in organisations that have spent many hours debating such things&mdash; a process which we have found often lacks integrity when it comes to its enactment and embodiment in daily practise.
+
+Thus, we do not think it is very interesting to talk about the beliefs we share. Instead, we think it is much more powerful to speak to *what we will do together*.
+
+The following "anchors" provide a grounding to guide us in that process. You can think of this set of criteria similarly to those you'd encounter in a job interview&mdash; everything is aspirational, and we don't expect that any organisations will be able to tick all these boxes. Rather, these are communicated here to indicate *how* we assess and prioritise potential engagements and partnerships. Compromising some values in the pursuit of others is sometimes acceptable, but only if it comes with clarity, transparency and accountability as to why we made such choices.
+
+You can create your own anchors, too. The guiding questions we used to light our way began simply:
 
 - What anchors or waypoints help us make coherent decisions about who to align with or what to work on?
 - What makes something a clear no?
 - What are the attractors we/you are looking for?
 - How do you know it when you see it?
+
+An effort is made to lean the writing of each section toward an *active verb* style, and to avoid nouns in our phrasing. Especially in the context of assessing our behaviours and actions, nouns inherently create a reductionism and loss of information over our thought process. What happens is that we end up taking a stream of opinions, events and memories and compressing them together mentally before making a final judgement that "we uphold diversity" or "this group works to empower others". Instead, we hope to create a culture where *in every action* we ask the question&mdash; "is what I am about to do going to *facilitate sovereignty, agency and autonomy*?" (for example).
+
+We have also created this list because (for the first time in history, we believe) *all of these aims are technologically achievable*. The only barriers that remain are social, political and cultural... barriers which, we hope, will shift slowly as we progress through this work.
+
 
 
 
