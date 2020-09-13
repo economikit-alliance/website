@@ -98,7 +98,7 @@ We stand with Indigenous peoples in their fight for independence and acknowledge
 
 **We like:**
 
-- Clear articulation of organisational power dynamics and decision-making processes[^agentcentrictech].
+- Clear articulation of organisational power dynamics and decision-making processes. Agent-centric[^agentcentrictech] technologies.
 - Working with those "on the ground" to understand their needs rather than designing models as an 'architect' of the system.
 - Technological systems which involve humans in their operation to provide flexibility, nuance and room for manoeuvre.
 - Data ownership and individual agency over exposure and sharing.
@@ -143,6 +143,7 @@ We think of "deep wealth"[^deepwealth] as complementary to self-sufficiency, res
 
 - Market-based solutionism and individualist logics.
 - Moves which rely solely on money to succeed.
+- Token-based thinking and efforts relying on speculative value.
 - Injected capital, equity investments and uncapped returns.
 
 
@@ -176,57 +177,102 @@ We believe that money is an important flow among the many streams of value embed
 
 ### Reduce inequity
 
+Our theory of change focuses on equity, not equality. You can imagine an invisible *'Mountain of Privilege'* that all of us are climbing. The goal of *equity* is for those higher up the mountain to reach down and help those further down the hill to climb higher. With *equality*, we instead treat everybody the same&mdash; which often means that while our overall privileges and rights may have been raised, the gap between the haves and the have-nots does not change.
 
 
-- Elevate marginalised demographics to reduce gaps in empowerment
-- "Nothing about us without us!"
-- Avoid solely empowering those already advantaged (especially in the socio-political context of the problem space; but more broadly as well)
+**We like:**
+
+- Representation and leadership from those affected by the deployment of the systems we create. This includes the early consultation and design processes&mdash; "Nothing about us without us!"[^nothingaboutus]
+- Efforts that elevate marginalised demographics to reduce gaps in empowerment.
+
+**We try to avoid:**
+
+- Solely empower those already advantaged
+    - Especially in the socio-political context of the problem space, but more broadly as well.
+- Act towards "elevating everybody" without defining exactly whom "everybody" is.
+
+
+
+
 
 ### Build commons
 
-- Prioritise groups growing natural, knowledge, social & technological commons (in that order?); collective benefit
-    - Further prioritise groups working to preserve Indigenous knowledge systems
-- Preference for OSS contributions
-    - But we will accept paid work for proprietary contracts; need to define how that input flows back into commons-supporting or sponsorship initiatives
-- Make up-front commitments towards commons contributions, not deferring to "phase 2 & beyond" & beholden to investment / income streams
-- don't make people dependent on dev teams
+We believe that survival of our species amidst the challenges of our time hinge upon our ability to responsibly and sustainably govern commons.[^commonstransition]
+
+We prioritise our commons work first on efforts which sustain, steward and regenerate natural & environmental commons. In all efforts we also aim to build towards sustainability and commoning at the social layer, and finally the technological layer(s) deemed necessary to underpin this work. We believe this ordering is important, and that our deepest service as beings in this new phase of existence should be toward the 'base layers' on which our survival depends&mdash; geologies, water flows, soil, fungi, bacteria and eventually flora, fauna, other human beings and the invisible agreements we make when coordinating together. This ordering is also important.
+
+**We like:**
+
+- Actions which grow natural, knowledge, social & technological commons; where the outcomes have a collective benefit.
+- The preservation, sharing and elevation of Indigenous knowledge systems and ways of knowing.
+- Open-source software, open contributions, codes of conduct.
+- Up-front commitments towards commons contributions.
+
+**We try to avoid:**
+
+- "Making things financially sustainable" before defining the commitments that groups will make to their commons.
+- Making people dependent on development teams and technical expertise to continue operating and innovating.
+
+
+
+
+
 
 ### Create relationships
 
-> [name=Sid] there's more here, needs better words
+We see change as an emergent, accountable and collaborative process; not a destination. We believe that the best way to engender material resilience is in engendering social resilience, and that socio-economic dependencies between local groups can deepen trust and cross-cultural understanding.
 
-- Gratitude as an indication of a healthy relationship
-- Prefer localised & place-based solutions
-- Create local sufficiency, abundance and autonomy
-- Facilitate human connection & build mutual aid support systems
-- Deepen cross-cultural understanding & socio-economic dependencies between local groups
-- Integrated software interfaces; "non-sided marketplaces"
-- Engage with diverse stakeholders from a variety of cultural, racial, social & political backgrounds
-- Change as an emergent, accountable and collaborative process; not a destination
+**We like:**
+
+- Acting and building in ways which lead toward gratitude and generosity.
+- Creating localised and place-based solutions which connect people with others nearby.
+- Facilitating human connection and building mutual aid[^mutualaid] support systems.
+- Integrated software interfaces; *'non-sided marketplaces'* where participants can assume any role.
+
+**We try to avoid:**
+
+- Creating 'split' interfaces which segregate participants in a system into different worldviews.
+
+
+
+
+
+
 
 ### Hold awareness for subjectivity & diversity
 
-Subjectivity is an ongoing creative struggle which we aim to continually and consciously explore. We welcome others looking to live into new possibilities for diversifying their relationships, increasing representation in their circles and widening their personal expressive capacity.
+Subjectivity is an ongoing creative struggle which we aim to continually and consciously explore. We welcome others looking to live into new possibilities for diversifying their relationships, increasing representation in their circles and widening their personal expressive capacity. We recognise the Invisibility of Race and celebrate all kinds of diversity, remembering that our physical characteristics do not show us the whole picture.
 
-- Widening the possibilities for personal expressive capacity.
-- The forces of Colonialism and Patriarchy require an active resistance in order to be overcome.
-- Projects which do not normalise maleness in the way that data is aggregated.
-- Favour efforts which widen the availability and accessibility of different roles, rather than elevating "women's work" or "soft skills" as a separate category of effort.
-- Physical characteristics do not show us the whole picture.
-
-- Work with organisations considering themselves "intersectional", "justice-oriented", "feminist" or compatible with these ideologies
-- Aversion to techno-utopianism, market-based solutionism, misoginy & chauvinism
-- Consent-based decision making (not consensus or control-based)
-- Humility
-
-<!-- - Value non-productive labor; reverance for stigmergic organising principles, "soft skills", "connector" and "care" work -->
-
+We believe that the forces of Colonialism and Patriarchy require an active resistance in order to be overcome. We support and elevate the efforts of groups expressing Intersectional, Feminist and Anti-Colonial attitudes.
+We favour empowerment efforts which widen the availability and accessibility of different roles, rather than elevating "women's work" or "soft skills" as a separate category of contribution.
 
 Anti-capitalism without intersectionality is class reductionism.
 
 Intersectionality without anti-capitalism is just liberal identity politics.
 
+**We like:**
+
+- Engaging with diverse stakeholders from a variety of cultural, racial, social & political backgrounds.
+- Using consent-based decision making (not consensus or control-based).
+- Being humble in the way we express our opinions and handle feedback.
+
+**We try to avoid:**
+
+- Normalising 'maleness' or 'whiteness' in the way that data is aggregated, labelled and understood.
+- Acting on techno-utopian belief systems which ignore the social dynamics of human beings. 
+- Engaging with misogynistic and chauvinistic attitudes and behaviour.
+
+
+
+
+
+
 ----
+
+
+
+
+
 
 
 
@@ -248,19 +294,10 @@ The pragmatic questions we must weigh in whenever deciding on engaging with a ne
 
 
 
-----
 
 
 
-## Weighing anchors
 
-- How to weigh goal vs constraint anchors?
-- Any particular violations of an anchor which make something a clear no?
-- Cost (social, political, natural, financial, ...) of not having anchors fulfilled?
-
-
-
-----
 
 
 
@@ -278,15 +315,21 @@ The pragmatic questions we must weigh in whenever deciding on engaging with a ne
 
 [^engverbs]: The English language makes this quite hard, and that says something about the nature of mainstream Western thought.
 
-[^agentcentrictech]: The use of [agent-centric technologies](https://forum.holochain.org/t/what-does-agent-centric-mean-how-is-it-different-than-data-centric/190) like [Holochain](https://holochain.org/) actually necessitates such clarity of governance.
+[^agentcentrictech]: The use of [agent-centric technologies](https://forum.holochain.org/t/what-does-agent-centric-mean-how-is-it-different-than-data-centric/190) like [Holochain](https://holochain.org/) actually necessitates such clarity in describing the power relations between peers, including those involved in the design & development process.
 
-[^sensemaking]: "Sensemaking" as defined by [Daniel Schmachtenberger](https://www.youtube.com/watch?v=7LqaotiGWjQ).
+[^sensemaking]: "Sensemaking" as defined by [Daniel Schmachtenberger](https://www.youtube.com/watch?v=7LqaotiGWjQ). Our individual ability to discern truth.
 
 [^deepwealth]: "Deep wealth" [as defined by](https://www.artbrock.com/2014/12/15/deep-wealth-talk-at-new-economy-conference) Art Brock, Ferananda Ibarra, Eric Harris-Braun and Jean-François Noubel.
 
 [^thrivability]: "Thrivability" ([book](https://www.triarchypress.net/thrivability.html)) as explored in the [research of](https://www.slideshare.net/NurtureGirl/thrivability-a-collaborative-sketch-3406586/) Jean Russell.
 
 [^degrowth]: See [What is Degrowth?](https://www.degrowth.info/en/what-is-degrowth/)
+
+[^nothingaboutus]: See [Mantra for a Movement](https://www.huffpost.com/entry/nothing-about-us-without-us-mantra-for-a-movement_b_59aea450e4b0c50640cd61cf). We also endeavour to adhere to the [Design Justice Principles](https://designjustice.org/read-the-principles).
+
+[^commonstransition]: The [phase transition](https://www.huffpost.com/entry/beyond-jeremy-rifkin-how-_b_5185948) to a Commons economy is already occurring. For more on our specific role as a collective involved in this process and the tools we aim to create, see [P2P Accounting for Planetary Survival](http://commonstransition.org/p2p-accounting-for-planetary-survival/).
+
+[^mutualaid]: 'Mutual Aid' is what it sounds like: people caring for each other in genuine ways and [helping each other when in need](https://itsgoingdown.org/autonomous-groups-are-mobilizing-mutual-aid-initiatives-to-combat-the-coronavirus/).
 
 
 ----
