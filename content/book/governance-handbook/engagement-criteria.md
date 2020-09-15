@@ -73,7 +73,7 @@ What follows are our answers to these questions.
 
 We believe that both individual and collective sovereignty are necessary features of any generative system. We believe that technical infrastructure and data should be held both by individuals and groups, and that the needs of both must be weighted when deciding who holds which information. We believe that individualism is an illusion and that data is held in the relational space between people&mdash; data generated in a group context is less valuable when divorced from that context. We also believe that in most cases individuals should retain provenance of such data for their own records upon exiting a group.
 
-We stand with Indigenous peoples in their fight for independence and acknowledge the centuries-old struggles for sovereignty and self-determination that are still ongoing. We acknowledge that their struggles are not our own, but are interrelated; and see that in a post-911, post-COVID world the harms of colonisation are becoming increasingly universal.
+We acknowledge that all people's struggles are not our own, but are interrelated; and see that in a post-911, post-COVID world the harms of colonisation are becoming increasingly universal.
 
 **We like:**
 
@@ -157,7 +157,7 @@ We think of "deep wealth"[^deepwealth] as complementary to self-sufficiency, res
 - Market-based solutionism and individualist logics.
 - Moves which rely solely on money to succeed.
 - Token-based thinking and efforts relying on speculative value.
-- Injected capital, equity investments and uncapped returns.
+- Capital injected by 'external stakeholders', uncapped equity based returns or promises of 'growth unto perpetuity'.
 
 
 
@@ -259,6 +259,8 @@ We see change as an emergent, accountable and collaborative process; not a desti
 
 
 ### Hold awareness for subjectivity & diversity
+
+(This section to me seems similar to 'Implement Contextual Solutions'. Doesn't designing for contextuality imply we're building diversity? I might be missing something though)
 
 Subjectivity is an ongoing creative struggle which we aim to continually and consciously explore. We welcome others looking to live into new possibilities for diversifying their relationships, increasing representation in their circles and widening their personal expressive capacity. We recognise the Invisibility of Race and celebrate all kinds of diversity, remembering that our physical characteristics do not show us the whole picture.
 
