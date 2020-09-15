@@ -8,8 +8,9 @@ tags: todo, ethics, strategy
 
 - [Understanding this document](#understanding-this-document)
 - [Goal anchors](#goal-anchors)
+    - [Uphold individual and collective sovereignty](#uphold-individual-and-collective-sovereignty)
+    - [Facilitate agency and autonomy](#facilitate-agency-and-autonomy)
     - [Implement contextual solutions](#implement-contextual-solutions)
-    - [Facilitate sovereignty, agency & autonomy](#facilitate-sovereignty-agency--autonomy)
     - [Create deep wealth](#create-deep-wealth)
     - [Practise generative finance](#practise-generative-finance)
     - [Reduce inequity](#reduce-inequity)
@@ -19,7 +20,7 @@ tags: todo, ethics, strategy
 - [Constraint anchors](#constraint-anchors)
     - [Time available](#time-available)
     - [Sustainability of the work](#sustainability-of-the-work)
-- [Characteristics we might articulate](#characteristics-we-might-articulate)
+    - [Space for reflection](#space-for-reflection)
 
 <!-- /MarkdownTOC -->
 
@@ -53,7 +54,7 @@ We have also created this list because (for the first time in history, we believ
 
 These define our aims, hopes and dreams; and thus, the kinds of groups we are seeking to collaborate with.
 
-An effort is made to lean the writing of this section toward an *active verb* style, and to avoid nouns in our phrasing.[^engverbs] Especially in the context of assessing our behaviours and actions, nouns inherently create a reductionism and loss of information over our thought process. What happens is that we end up taking a stream of opinions, events and memories and compressing them together mentally before making a final judgement that "we uphold diversity" or "this group works to empower others". Instead, we hope to create a culture where *in every action* we ask the question&mdash; "is what I am about to do going to *facilitate sovereignty, agency and autonomy*?" (for example).
+An effort is made to lean the writing of this section toward an *active verb* style, and to avoid nouns in our phrasing.[^engverbs] Especially in the context of assessing our behaviours and actions, nouns inherently create a reductionism and loss of information over our thought process. What happens is that we end up taking a stream of opinions, events and memories and compressing them together mentally before making a final judgement that "we uphold diversity" or "this group works to empower others". Instead, we hope to create a culture where *in every action* we ask the question&mdash; "is what I am about to do going to *uphold individual and collective sovereignty*?" (for example).
 
 You can create your own anchors, too. The guiding questions we used to light our way began simply:
 
@@ -61,6 +62,56 @@ You can create your own anchors, too. The guiding questions we used to light our
 - What makes something a clear no?
 - What are the attractors we/you are looking for?
 - How do you know it when you see it?
+
+What follows are our answers to these questions.
+
+
+
+
+
+### Uphold individual and collective sovereignty
+
+We believe that both individual and collective sovereignty are necessary features of any generative system. We believe that technical infrastructure and data should be held both by individuals and groups, and that the needs of both must be weighted when deciding who holds which information. We believe that individualism is an illusion and that data is held in the relational space between people&mdash; data generated in a group context is less valuable when divorced from that context. We also believe that in most cases individuals should retain provenance of such data for their own records upon exiting a group.
+
+We stand with Indigenous peoples in their fight for independence and acknowledge the centuries-old struggles for sovereignty and self-determination that are still ongoing. We acknowledge that their struggles are not our own, but are interrelated; and see that in a post-911, post-COVID world the harms of colonisation are becoming increasingly universal.
+
+**We like:**
+
+- Personal data ownership and direct control over exposure and sharing.
+- Collectively holding information among groups of peers, rather than in trusted nodes with shared access.
+- Individual control over the installation of software updates and changes.
+- Projects which create resilience in and agency over physical and digital infrastructure, and reduce dependency on external providers.
+- Self-managed encryption keys, end-to-end encryption and access recovery without the involvement of custodial or central authorities.
+
+**We try to avoid:**
+
+- Eavesdropping and monitoring of communications and data by external parties.
+
+
+
+
+
+
+### Facilitate agency and autonomy
+
+We believe that many of the current injustices in the world emerge as a result of unequal power dynamics and access to information. We believe that every human being has the right to define and practise their own culture, and that such practises should be wholly held and operated under that group's own authority. We believe that agency and Place are fundamentally interwoven, and that the possibility for autonomy in technological systems depends on local access to data, without intermediaries. We acknowledge the tension between self-monitoring of data to provide insight, and data as a panopticon when handled externally or without mutually enforced ethical agreements.
+
+**We like:**
+
+- Clear articulation of organisational power dynamics and decision-making processes. Adoption of agent-centric[^agentcentrictech] technologies.
+- Dispersing power to those without it.
+- Working with those "on the ground" to understand their needs rather than designing models as an 'architect' of the system.
+- Technological systems which involve humans in their operation to provide flexibility, nuance and room for manoeuvre.
+- Decision-making and governance processes that are retained within the communities affected by them.
+- Member-directed governance models, rather than board-directed ones.
+- Sense-making[^sensemaking] systems and "empowerment to" design processes; human-scale reasoning. Game theory as a statistical modelling tool.
+
+**We try to avoid:**
+
+- Designs which defer decision-making processes to external forces (whether these be human, collective or AIs)
+    - Especially those where power over many is aggregated into the hands of few.
+- Game-theoretic operational models and other "power over" design patterns; use of AI and Big Data.
+
 
 
 
@@ -77,49 +128,11 @@ We believe that the needs and goals of communities differ, and that it is a mist
 - Constellations of targeted, special-purpose currencies rather than singular or monolithic economic models.
 - Business models which are not based on the number of users of a platform.
 - Place-based platforms which aim to assist a single community and have no growth imperative beyond that.
-
-<!-- - Commons-producing models that primarily aim create common works or steward natural commons; particularly where the goal is to create knowledge commons or transparency in supply chains. -->
+- Biomimetic, nature-inspired technologies and adaptable systems.
 
 **We try to avoid:**
 
 - Utilitarian ethics and projects who believe that "everybody ought to" or "one size fits all".
-
-
-
-
-
-### Facilitate sovereignty, agency & autonomy
-
-We believe that many of the current injustices in the world emerge as a result of unequal power dynamics and access to information. We believe that every human being has the right to define and practise their own culture, and that such practises should be wholly held and operated under that group's own authority. We believe that agency and Place are fundamentally interwoven, and that the possibility for autonomy in technological systems depends on local access to data, without intermediaries. We acknowledge the tension between self-monitoring of data to provide insight, and data as a panopticon when handled externally or without mutually enforced ethical agreements.
-
-We believe that both individual and collective autonomy are necessary features of any generative system. We believe that technical infrastructure and data should be held both by individuals and groups, and that the needs of both must be weighted when deciding who holds which information. We believe that individualism is an illusion and that data is held in the relational space between people&mdash; data generated in a group context is less valuable when divorced from that context. We also believe that in most cases individuals should retain provenance of such data for their own records upon exiting a group.
-
-We stand with Indigenous peoples in their fight for independence and acknowledge the centuries-old struggles for sovereignty and self-determination that are still ongoing. We acknowledge that their struggles are not our own, but are interrelated; and see that in a post-911, post-COVID world the harms of colonisation are becoming increasingly universal.
-
-**We like:**
-
-- Clear articulation of organisational power dynamics and decision-making processes. Agent-centric[^agentcentrictech] technologies.
-- Working with those "on the ground" to understand their needs rather than designing models as an 'architect' of the system.
-- Technological systems which involve humans in their operation to provide flexibility, nuance and room for manoeuvre.
-- Data ownership and individual agency over exposure and sharing.
-- Projects which create resilience in and agency over physical and digital infrastructure, and reduce dependency on external providers.
-- Self-managed encryption keys, "social encryption", and distributed access recovery without central authorities.
-- Individual control over the installation of software updates and changes.
-- Decision-making and governance processes that are retained within the communities affected by them.
-- Member-directed governance models, rather than board-directed ones.
-- Sense-making[^sensemaking] systems and "empowerment to" design processes; human-scale reasoning. Game theory as a statistical modelling tool.
-- Bridge-building and efforts to facilitate compassion between communities; especially across production supply chains.
-
-<!-- - Disperse power to those without it -->
-<!-- - Non-hierarchical, "leaderful" governance. -->
-<!-- - Context & awareness of externalities, rather than blind to them but (hopefully) manipulated to work in service to them -->
-
-**We try to avoid:**
-
-- Designs which defer decision-making processes to external forces (whether these be human, collective or AIs)
-    - Especially those where power over many is aggregated into the hands of few.
-- Eavesdropping and monitoring of communications and data by external parties.
-- Game-theoretic operational models and other "power over" design patterns; use of AI and Big Data.
 
 
 
@@ -161,6 +174,7 @@ We believe that money is an important flow among the many streams of value embed
 - The creation of mutual & interest-free debt issuance systems.
 - Voluntary charitable contributions.
 - Private equity as a way of nurturing communities of interest and engaging community members.
+- Transforming the implied power relation of aid schemes to place those receiving capital in control of its distribution.
 - Capped returns on investment, and explicit articulation of extraction relative to the real (tangible) value generated.
 
 **We try to avoid:**
@@ -168,6 +182,7 @@ We believe that money is an important flow among the many streams of value embed
 - Debt-based issuance and loans.
 - Uncapped returns and the growth logic of Silicon Valley.
 - Extracting value from the natural environment, human interactions, data or licensing & service fees.
+- Engaging with efforts which create short-term visibility or funding but do not have long-lasting practical applicability in lived practise.
 
 
 
@@ -199,14 +214,16 @@ Our theory of change focuses on equity, not equality. You can imagine an invisib
 
 We believe that survival of our species amidst the challenges of our time hinge upon our ability to responsibly and sustainably govern commons.[^commonstransition]
 
-We prioritise our commons work first on efforts which sustain, steward and regenerate natural & environmental commons. In all efforts we also aim to build towards sustainability and commoning at the social layer, and finally the technological layer(s) deemed necessary to underpin this work. We believe this ordering is important, and that our deepest service as beings in this new phase of existence should be toward the 'base layers' on which our survival depends&mdash; geologies, water flows, soil, fungi, bacteria and eventually flora, fauna, other human beings and the invisible agreements we make when coordinating together. This ordering is also important.
+We prioritise our efforts first toward those which sustain, steward and regenerate natural & environmental commons. In all work we also aim to build towards sustainability and commoning at the social layer, and finally the technological layer(s) deemed necessary to underpin this work. We believe this ordering is important, and that our deepest service as beings in this new phase of existence should be toward the 'base layers' on which our survival depends&mdash; geologies, water flows, soil, fungi, bacteria and eventually flora, fauna, other human beings and the invisible agreements we make when coordinating together.
 
 **We like:**
 
 - Actions which grow natural, knowledge, social & technological commons; where the outcomes have a collective benefit.
 - The preservation, sharing and elevation of Indigenous knowledge systems and ways of knowing.
+- Bioregional scale governance and stewardship efforts.
 - Open-source software, open contributions, codes of conduct.
 - Up-front commitments towards commons contributions.
+- Strong governance around the sharing of dividends and surplus.
 
 **We try to avoid:**
 
@@ -226,8 +243,10 @@ We see change as an emergent, accountable and collaborative process; not a desti
 
 - Acting and building in ways which lead toward gratitude and generosity.
 - Creating localised and place-based solutions which connect people with others nearby.
+- Bridge-building and efforts to facilitate compassion between communities; especially across production supply chains.
 - Facilitating human connection and building mutual aid[^mutualaid] support systems.
 - Integrated software interfaces; *'non-sided marketplaces'* where participants can assume any role.
+- Intergenerational teams and organisations.
 
 **We try to avoid:**
 
@@ -253,21 +272,20 @@ Intersectionality without anti-capitalism is just liberal identity politics.
 **We like:**
 
 - Engaging with diverse stakeholders from a variety of cultural, racial, social & political backgrounds.
-- Using consent-based decision making (not consensus or control-based).
+- Using consent-based[^consentbased] decision making (not consensus or control-based).
+- Non-violent communication and dispute resolution practises.
 - Being humble in the way we express our opinions and handle feedback.
 
 **We try to avoid:**
 
 - Normalising 'maleness' or 'whiteness' in the way that data is aggregated, labelled and understood.
-- Acting on techno-utopian belief systems which ignore the social dynamics of human beings. 
+- Acting on techno-utopian belief systems which ignore the social dynamics of human beings.
+- Hurriedly moving through conflict with the goal of "stopping" rather than "understanding" the problem.
 - Engaging with misogynistic and chauvinistic attitudes and behaviour.
 
 
 
 
-
-
-----
 
 
 
@@ -278,19 +296,27 @@ Intersectionality without anti-capitalism is just liberal identity politics.
 
 ## Constraint anchors
 
-The pragmatic questions we must weigh in whenever deciding on engaging with a new collaborator.
+Our goals give us the ideal world, but this world is far from ideal. There are of course the standard pragmatic questions we must weigh and factor in whenever deciding on engaging with a new collaborator.
+
+Briefly, these are&mdash;
 
 ### Time available
 
-- Projects should be weighted against the market opportunity & time window available to maximise impact
-- Estimated time to delivery & energy expenditure
+Projects should be weighted against the market opportunity and time window available to maximise impact. Estimated time to delivery and the energy cost to our team need to be assessed, keeping in mind our available bandwidth over the projected time window.
 
 ### Sustainability of the work
 
+For us this involves a few straightforward questions:
+
 - Do we have the people-power?
 - Do we have the financial runway?
-- Yes we want $, but not at the expense of ethical/moral criteria
-- Defining spaces for reflection at the start of a project
+- Will the outcome of this engagement be that we are more or less financially secure after engaging with it?
+
+In other words: yes, we need funding in order to survive. We make the above 'goal anchors' visible to ensure that we do not take funding at the expense of our ethical & moral criteria.
+
+### Space for reflection
+
+Defining space for reflection at the start of a project is important in evolving our ongoing understanding of our work. In all efforts undertaken we endeavour to explicitly nominate a time for reflecting on what we have done together, learning from our experiences and improving our processes.
 
 
 
@@ -299,13 +325,6 @@ The pragmatic questions we must weigh in whenever deciding on engaging with a ne
 
 
 
-
-
-## Characteristics we might articulate
-
-- while functioning in neoliberal context actually transcend it by creating agency without overly exposing agents to centralized control.
-- demonstrate that we not only want to move beyond corruption and extorting middle men but also transform the implied power relation of "aid" schemes
-- lean toward organic growth of ideal forms brought into lived practice rather than grabbing wave of opportunity to have fleeting garbage which doesn't work in practice but does bring short term visibility or funding.
 
 
 
@@ -316,6 +335,8 @@ The pragmatic questions we must weigh in whenever deciding on engaging with a ne
 [^engverbs]: The English language makes this quite hard, and that says something about the nature of mainstream Western thought.
 
 [^agentcentrictech]: The use of [agent-centric technologies](https://forum.holochain.org/t/what-does-agent-centric-mean-how-is-it-different-than-data-centric/190) like [Holochain](https://holochain.org/) actually necessitates such clarity in describing the power relations between peers, including those involved in the design & development process.
+
+[^consentbased]: Consent is where our tolerances overlap. See [infographic](https://twitter.com/richdecibels/status/1232988195656257536) from Richard Bartlett.
 
 [^sensemaking]: "Sensemaking" as defined by [Daniel Schmachtenberger](https://www.youtube.com/watch?v=7LqaotiGWjQ). Our individual ability to discern truth.
 
@@ -330,49 +351,3 @@ The pragmatic questions we must weigh in whenever deciding on engaging with a ne
 [^commonstransition]: The [phase transition](https://www.huffpost.com/entry/beyond-jeremy-rifkin-how-_b_5185948) to a Commons economy is already occurring. For more on our specific role as a collective involved in this process and the tools we aim to create, see [P2P Accounting for Planetary Survival](http://commonstransition.org/p2p-accounting-for-planetary-survival/).
 
 [^mutualaid]: 'Mutual Aid' is what it sounds like: people caring for each other in genuine ways and [helping each other when in need](https://itsgoingdown.org/autonomous-groups-are-mobilizing-mutual-aid-initiatives-to-combat-the-coronavirus/).
-
-
-----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Value Boundaries
-
-Regenerative, local-to-global, community, relating to the great transition, love of human and more-than-human, collective wisdom, plurality, intergenerational, variety/diversity of approach
-
-Organizing approach
-
-Regional/bioregional, distributed decision making, capacity building, non-coercive, share of surplus, living systems inspired, biomimicry inspired, leaderful, contextual, both/and.
-
-Communication patterns
-
-Microsolidarity, mentorship, working with cadence, stigmergic, open mind/heart/will, non-violent
-
-Principles
-
-Commons Management, Charter for Human Rights on the Internet, Principles for a Feminist Internet, Earth Care People Care Fair Share, Community Self-determination, Localization, Degrowth
-
-
-
-
-
-
-
-
-
-
-Conflict revelation- holding conflict in a good way
-
-
-
