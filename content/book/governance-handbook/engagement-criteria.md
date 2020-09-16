@@ -133,6 +133,7 @@ We believe that the needs and goals of communities differ, and that it is a mist
 **We try to avoid:**
 
 - Utilitarian ethics and projects who believe that "everybody ought to" or "one size fits all".
+- Acting on techno-utopian belief systems which ignore or oversimplify the social dynamics of human beings.
 
 
 
@@ -260,8 +261,6 @@ We see change as an emergent, accountable and collaborative process; not a desti
 
 ### Hold awareness for subjectivity & diversity
 
-(This section to me seems similar to 'Implement Contextual Solutions'. Doesn't designing for contextuality imply we're building diversity? I might be missing something though)
-
 Subjectivity is an ongoing creative struggle which we aim to continually and consciously explore. We welcome others looking to live into new possibilities for diversifying their relationships, increasing representation in their circles and widening their personal expressive capacity. We recognise the Invisibility of Race and celebrate all kinds of diversity, remembering that our physical characteristics do not show us the whole picture.
 
 We believe that the forces of Colonialism and Patriarchy require an active resistance in order to be overcome. We support and elevate the efforts of groups expressing Intersectional, Feminist and Anti-Colonial attitudes.
@@ -281,7 +280,6 @@ Intersectionality without anti-capitalism is just liberal identity politics.
 **We try to avoid:**
 
 - Normalising 'maleness' or 'whiteness' in the way that data is aggregated, labelled and understood.
-- Acting on techno-utopian belief systems which ignore the social dynamics of human beings.
 - Hurriedly moving through conflict with the goal of "stopping" rather than "understanding" the problem.
 - Engaging with misogynistic and chauvinistic attitudes and behaviour.
 
