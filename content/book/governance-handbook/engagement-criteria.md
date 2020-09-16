@@ -73,7 +73,7 @@ What follows are our answers to these questions.
 
 We believe that both individual and collective sovereignty are necessary features of any generative system. We believe that technical infrastructure and data should be held both by individuals and groups, and that the needs of both must be weighted when deciding who holds which information. We believe that individualism is an illusion and that data is held in the relational space between people&mdash; data generated in a group context is less valuable when divorced from that context. We also believe that in most cases individuals should retain provenance of such data for their own records upon exiting a group.
 
-We acknowledge that all people's struggles are not our own, but are interrelated; and see that in a post-911, post-COVID world the harms of colonisation are becoming increasingly universal.
+We stand with Indigenous peoples in their fight for independence and acknowledge the centuries-old struggles for sovereignty and self-determination that are still ongoing. We acknowledge that their struggles are not our own, but are interrelated; and see that in a post-911, post-COVID world the harms of colonisation are becoming increasingly universal.
 
 **We like:**
 
