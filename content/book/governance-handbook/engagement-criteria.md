@@ -75,17 +75,17 @@ We believe that both individual and collective sovereignty are necessary feature
 
 We stand with Indigenous peoples in their fight for independence and acknowledge the centuries-old struggles for sovereignty and self-determination that are still ongoing. We acknowledge that their struggles are not our own, but are interrelated; and see that in a post-911, post-COVID world the harms of colonisation are becoming increasingly universal.
 
-**We like:**
+**We endeavour to:**
 
-- Architecting for personal data ownership and direct control over exposure and sharing.
-- Holding information collectively among groups of peers, rather than in trusted nodes with shared access.
-- Providing for individual control over the installation of software updates and changes.
-- Improving resilience in and agency over physical and digital infrastructure, and reducing dependency on external providers.
-- Using self-managed encryption keys, end-to-end encryption and access recovery without the involvement of custodial or central authorities.
+- Design for personal data ownership and direct control over exposure and sharing.
+- Hold information collectively among groups of peers, rather than in trusted nodes with shared access.
+- Provide for individual control over the installation of software updates and changes.
+- Improve resilience in and agency over physical and digital infrastructure. Reduce dependency on external providers.
+- Facilitate the adoption of self-managed encryption keys, end-to-end encryption and access recovery without the involvement of custodial or central authorities.
 
-**We try to avoid:**
+**We try not to:**
 
-- Eavesdropping and monitoring of communications and data by external parties.
+- Enable eavesdropping or monitoring of communications and data by external parties.
 
 
 
@@ -96,21 +96,22 @@ We stand with Indigenous peoples in their fight for independence and acknowledge
 
 We believe that many of the current injustices in the world emerge as a result of unequal power dynamics and access to information. We believe that every human being has the right to define and practise their own culture, and that such practises should be wholly held and operated under that group's own authority. We believe that agency and Place are fundamentally interwoven, and that the possibility for autonomy in technological systems depends on local access to data, without intermediaries. We acknowledge the tension between self-monitoring of data to provide insight, and data as a panopticon when handled externally or without mutually enforced ethical agreements.
 
-**We like:**
+**We endeavour to:**
 
-- Clearly articulating organisational power dynamics and decision-making processes.[^agentcentrictech]
-- Dispersing power to those without it.
-- Working with those "on the ground" to understand their needs rather than designing models as an 'architect' of the system.
-- Designing and deploying technological systems which involve humans in their operation to provide flexibility, nuance and room for manoeuvre.
-- Fostering decision-making and governance processes that are retained within the communities affected by them.
-- Adopting and engaging with member-directed governance models, rather than board-directed ones.
-- Creating sense-making[^sensemaking] systems and using "empowerment to" design processes. Building for human-scale reasoning. Using game theory as a statistical modelling tool.
+- Clearly articulate organisational power dynamics and decision-making processes.[^agentcentrictech]
+- Disperse power to those without it.
+- Work with those "on the ground" to understand their needs rather than designing models as an 'architect' of the system.
+- Design and deploy technological systems which involve humans in their operation to provide flexibility, nuance and room for manoeuvre.
+- Foster the creation of decision-making and governance processes that are retained within the communities affected by them.
+- Adopt and engage with member-directed governance models, rather than board-directed ones.
+- Create sense-making[^sensemaking] systems and use "empowerment to" design processes. Use game theory only as a statistical modelling tool.
+- Build for human-scale reasoning and comprehension.
 
-**We try to avoid:**
+**We try not to:**
 
-- Deferring decision-making processes to external forces (whether these be human, collective or AIs)
-    - Especially those where power over many is aggregated into the hands of few.
-- Employing game-theoretic operational models and other "power over" design patterns. Using AI and Big Data to govern decisions.
+- Defer decision-making processes to external forces (whether these be human, collective or AIs), especially those where power over many is aggregated into the hands of few.
+- Employ game-theoretic operational models and other "power over" design patterns.
+- Use AI and Big Data to govern decisions.
 
 
 
@@ -122,18 +123,18 @@ We believe that universal solutions propagate monocultures which are oppressive 
 
 We believe that the needs and goals of communities differ, and that it is a mistake to attempt to service the needs of all. We aim to support the immediate needs of those we collaborate with whilst engendering a sensitivity to the needs of other beings and developing protocols for knowing and harmonising between different belief systems and ways of life.
 
-**We like:**
+**We endeavour to:**
 
-- Using existing protocols and creating strong protocol designs. Focusing on interoperability between technologies and communities.
-- Deploying constellations of targeted, special-purpose currencies rather than singular or monolithic economic models.
-- Engaging with growth models and opportunities which are not based on the number of users of a platform.
-- Developing place-based platforms which aim to assist a single community and have no growth imperative beyond that.
-- Creating and using biomimetic, nature-inspired technologies and adaptable systems.
+- Use existing protocols and create strong protocol designs. Focus on interoperability between technologies and communities.
+- Deploy constellations of targeted, special-purpose currencies rather than singular or monolithic economic models.
+- Engage with growth models and opportunities which are not based on the number of users of a platform.
+- Develop place-based platforms which aim to assist a single community and have no growth imperative beyond that.
+- Create and adopt biomimetic, nature-inspired technologies and adaptable systems.
 
-**We try to avoid:**
+**We try not to:**
 
-- Engaging with utilitarian ethics or projects who believe that "everybody ought to" or "one size fits all".
-- Acting on techno-utopian belief systems which ignore or oversimplify the social dynamics of human beings.
+- Engage with utilitarian ethics or projects who believe that "everybody ought to" or "one size fits all".
+- Act on techno-utopian belief systems which ignore or oversimplify the social dynamics of human beings.
 
 
 
@@ -143,22 +144,22 @@ We believe that the needs and goals of communities differ, and that it is a mist
 
 We think of "deep wealth"[^deepwealth] as complementary to self-sufficiency, resilience and autonomy. We believe that money fundamentally *causes* inequity via extractive social consequences and cannot play any role other than a transitionary one in lasting solutions to ending poverty.
 
-**We like:**
+**We endeavour to:**
 
-- Acknowledging existing value and wealth. Embracing what is already working.
-- Making pluralistic value forms perceptual, meaningful and actionable.
-- Turning externalities into internalities.
-- Creating self-generative wealth and life support systems.
-- Creating recurring, localised income streams.
-- Making efforts towards sufficiency, abundance and thrivability[^thrivability].
-- Moving towards a degrowth[^degrowth] economy in some sense or another, particularly where the goal is to reduce complexity in the supply chain.
+- Acknowledge existing value and wealth. Embrace what is already working.
+- Make pluralistic value forms perceptual, meaningful and actionable.
+- Turn externalities into internalities.
+- Create self-generative wealth and life support systems.
+- Create recurring, localised income streams.
+- Direct efforts towards sufficiency, abundance and thrivability[^thrivability].
+- Move towards a degrowth[^degrowth] economy and de-complexify things, particularly where this goal involves production supply chains.
 
-**We try to avoid:**
+**We try not to:**
 
-- Thinking with market-based solutionism or individualist logics.
-- Making moves which rely solely on money to succeed.
-- Engaging with token-based thinking or relying on speculative value.
-- Allowing 'external stakeholders' to inject capital, create expectation of uncapped equity-based returns or make promises of "growth unto perpetuity".
+- Think in individualist logics or subscribe to market-based solutionism.
+- Make moves which rely heavily on spending or generating money to succeed.
+- Engage with token-based thinking or rely on speculative value.
+- Allow 'external stakeholders' to inject capital, create expectation of uncapped equity-based returns or make promises of "growth unto perpetuity".
 
 
 
@@ -169,21 +170,21 @@ We think of "deep wealth"[^deepwealth] as complementary to self-sufficiency, res
 
 We believe that money is an important flow among the many streams of value embedded in physical and social reality. We acknowledge it as a necessity for meeting our basic needs in Capitalist society, whilst also being mindful of its social consequences and the need to move beyond it. The financial models which we engage with, adopt and employ should thus prepare those they affect for exiting the Capitalist system. We realise that the injection of capital also usually leads to the creation of hierarchy, and aim to move beyond this paradigm in how we aid and support others.
 
-**We like:**
+**We endeavour to:**
 
-- Optimising for non-exploitative, non-extractive business models.
-- Creating and deploying mutual & interest-free debt issuance systems.
-- Providing for voluntary charitable contributions rather than charging licensing fees.
-- Using private equity as a way of nurturing communities of interest and engaging community members.
-- Transforming the implied power relation of aid schemes to place those receiving capital in control of its distribution.
-- Capping returns on investment, and explicitly articulating the extracted value relative to the real (tangible) value generated.
+- Optimise for non-exploitative, non-extractive business models.
+- Create and deploy mutual & interest-free debt issuance systems.
+- Provide for voluntary charitable contributions rather than charging licensing fees.
+- Use private equity as a way of nurturing communities of interest and engaging community members.
+- Transform the implied power relation of aid schemes to place those receiving capital in control of its distribution.
+- Cap returns on investment, and explicitly quantify the extracted value relative to the real (tangible) value generated.
 
-**We try to avoid:**
+**We try not to:**
 
-- Extracting value from the natural environment, human interactions, data or licensing & service fees.
-- Creating debt-based issuance and loan systems.
-- Employing uncapped returns and the growth logic of Silicon Valley.
-- Engaging with efforts which create short-term visibility or funding but do not have long-lasting practical applicability in lived practise.
+- Extract value from the natural environment, human interactions, data or licensing & service fees.
+- Create debt-based issuance and loan systems.
+- Employ uncapped returns and the growth logic of Silicon Valley.
+- Engage with efforts which create short-term visibility or funding but do not have long-lasting practical applicability in lived practise.
 
 
 
@@ -196,16 +197,15 @@ We believe that money is an important flow among the many streams of value embed
 Our theory of change focuses on equity, not equality. You can imagine an invisible *'Mountain of Privilege'* that all of us are climbing. The goal of *equity* is for those higher up the mountain to reach down and help those further down the hill to climb higher. With *equality*, we instead treat everybody the same&mdash; which often means that while our overall privileges and rights may have been raised, the gap between the haves and the have-nots does not change.
 
 
-**We like:**
+**We endeavour to:**
 
-- Collaborating with leadership and representation from those affected by the deployment of the systems we create. This includes the early consultation and design processes&mdash; "Nothing about us without us!"[^nothingaboutus]
-- Elevating marginalised demographics to reduce gaps in empowerment.
+- Collaborate with leadership and representation from those affected by the deployment of the systems we create. This includes the early consultation and design processes&mdash; "Nothing about us without us!"[^nothingaboutus]
+- Elevate marginalised demographics to reduce gaps in empowerment.
 
-**We try to avoid:**
+**We try not to:**
 
-- Solely empowering those already advantaged
-    - Especially in the socio-political context of the problem space, but more broadly as well.
-- Acting towards "elevating everybody" without defining exactly whom "everybody" is.
+- Solely empower those already advantaged&mdash; especially in the socio-political context of the problem space, but more broadly as well.
+- Attempt to "elevate everybody" without defining exactly whom "everybody" is.
 
 
 
@@ -217,19 +217,19 @@ We believe that survival of our species amidst the challenges of our time hinge 
 
 We prioritise our efforts first toward those which sustain, steward and regenerate natural & environmental commons. In all work we also aim to build towards sustainability and commoning at the social layer, and finally the technological layer(s) deemed necessary to underpin this work. We believe this ordering is important, and that our deepest service as beings in this new phase of existence should be toward the 'base layers' on which our survival depends&mdash; geologies, water flows, soil, fungi, bacteria and eventually flora, fauna, other human beings and the invisible agreements we make when coordinating together.
 
-**We like:**
+**We endeavour to:**
 
-- Growing natural, knowledge, social & technological commons; where the outcomes have a collective benefit.
-- Preserving, sharing and elevating Indigenous knowledge systems and ways of knowing.
-- Employing bioregional-scale governance and stewardship efforts.
-- Building and using open-source software. Allowing for open contributions. Providing codes of conduct.
-- Making up-front commitments towards commons contributions before embarking upon a set of work.
-- Ensuring strong governance around the sharing of dividends and surplus.
+- Grow natural, knowledge, social & technological commons; where the outcomes have a collective benefit.
+- Preserve, share and elevate Indigenous knowledge systems and ways of knowing.
+- Employ bioregional-scale governance and stewardship efforts.
+- Build and use open-source software. Allow for open contributions. Provide and mandate codes of conduct.
+- Make up-front commitments towards commons contributions before embarking upon a set of work.
+- Ensure strong governance around the sharing of dividends and surplus.
 
-**We try to avoid:**
+**We try not to:**
 
-- "Making things financially sustainable" before defining the commitments that groups will make to their commons.
-- Making people dependent on development teams and technical expertise to continue operating and innovating.
+- "Wait until things are financially sustainable" before defining the commitments that groups will make to their commons.
+- Make people dependent on development teams and technical expertise to continue operating and innovating.
 
 
 
@@ -240,18 +240,18 @@ We prioritise our efforts first toward those which sustain, steward and regenera
 
 We see change as an emergent, accountable and collaborative process; not a destination. We believe that the best way to engender material resilience is in engendering social resilience, and that socio-economic dependencies between local groups can deepen trust and cross-cultural understanding.
 
-**We like:**
+**We endeavour to:**
 
-- Acting and building in ways which lead toward gratitude and generosity.
-- Creating localised and place-based solutions which connect people with others nearby.
-- Bridge-building and facilitating compassion between communities; especially across production supply chains.
-- Facilitating human connection and building mutual aid[^mutualaid] support systems.
-- Creating integrated software interfaces: *'non-sided marketplaces'* where participants can assume any role.
-- Building and collaborating with intergenerational teams and organisations.
+- Behave and create in ways which lead toward gratitude and generosity.
+- Implement localised and place-based solutions which connect people with others nearby.
+- Build bridges and facilitate compassion between communities; especially across production supply chains.
+- Facilitate human connection. Build mutual aid[^mutualaid] support systems.
+- Create integrated software interfaces: *'non-sided marketplaces'* where participants can assume any role.
+- Build and collaborate with intergenerational, multi-racial, gender diverse, multi-ethnic, multi-cultural teams and organisations.
 
-**We try to avoid:**
+**We try not to:**
 
-- Creating 'split' interfaces which segregate participants in a system into different worldviews.
+- Create 'split' interfaces which segregate participants of a system into different worldviews and experiences.
 
 
 
@@ -269,18 +269,18 @@ Anti-capitalism without intersectionality is class reductionism.
 
 Intersectionality without anti-capitalism is just liberal identity politics.
 
-**We like:**
+**We endeavour to:**
 
-- Engaging with diverse stakeholders from a variety of cultural, racial, social & political backgrounds.
-- Using consent-based[^consentbased] decision making (not consensus or control-based).
-- Employing non-violent communication techniques and dispute resolution practises.
-- Being humble in the way we express our opinions and handle feedback.
+- Engage with diverse stakeholders from a variety of cultural, racial, social & political backgrounds.
+- Use and engage with consent-based[^consentbased] decision making (not consensus or control-based).
+- Employ non-violent communication techniques and dispute resolution practises.
+- Be humble and open in the way we express our opinions and handle feedback.
 
-**We try to avoid:**
+**We try not to:**
 
-- Normalising 'maleness' or 'whiteness' in the way that data is aggregated, labelled and understood.
-- Hurriedly moving through conflict with the goal of "stopping" rather than "understanding" the problem.
-- Engaging with misogynistic and chauvinistic attitudes and behaviour.
+- Normalise 'maleness' or 'whiteness' in the way that data is aggregated, labelled and understood.
+- Hurriedly move through conflict with the goal of "stopping" rather than "understanding" the problem.
+- Engage with racist, trans-phobic, misogynistic or chauvinistic attitudes and behaviour.
 
 
 
