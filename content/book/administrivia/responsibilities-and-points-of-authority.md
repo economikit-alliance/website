@@ -15,6 +15,11 @@ description: >-
     * pospi and Siddharth are admins
     * data can be periodically backed up via export functionality
     * interested parties can request to join via Loomio
-* Telegram group:
-    * pospi and Sid are admins
-    * admins responsible for adding new members after Loomio onboarding
+    * Sub-groups:
+        * "Meetings and internal admin" is private, but all members of the collective should be added to it. pospi and Siddharth are admins.
+* Telegram groups:
+    * Economikit member updates
+        * pospi, Sid and Jean are admins. Nobody else can add new members.
+    * EK core stewards
+        * pospi, Sid and Jean are admins.
+    * Group admins are responsible for adding new members after initial onboarding.
