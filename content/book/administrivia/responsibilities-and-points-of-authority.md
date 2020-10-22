@@ -22,4 +22,8 @@ description: >-
         * pospi, Sid and Jean are admins. Nobody else can add new members.
     * EK core stewards
         * pospi, Sid and Jean are admins.
+    * EK product dev circle
+        * pospi and Noah are admins.
+    * EK philosophy circle
+        * pospi, Jean, Sid and Emaline are admins.
     * Group admins are responsible for adding new members after initial onboarding.
