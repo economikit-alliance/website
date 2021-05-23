@@ -2,7 +2,7 @@
 
 baseURL = 'https://example.com/'
 title = 'Economikit Alliance'
-theme = 'book'
+theme = 'ek'
 
 # Book configuration
 disablePathToLower = true
