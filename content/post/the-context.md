@@ -1,5 +1,11 @@
 ---
-tags: blog
+date: "2021-05-20"
+categories:
+- organisation & mission
+tags:
+- context
+description: The following attempts to distill the shared context we have developed over the last year and a half. The guiding question motivating this work is, "what is it about the confluence of digital technology and global economic circuits that needs to change?"
+
 ---
 
 # The Context - Why?
