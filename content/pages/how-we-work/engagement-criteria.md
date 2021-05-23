@@ -1,5 +1,9 @@
 ---
-tags: website, todo, ethics, strategy
+categories:
+- organisation & mission
+tags: 
+- context
+- strategy
 ---
 
 # Engagement criteria
