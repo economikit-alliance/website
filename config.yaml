@@ -1,10 +1,13 @@
-baseURL = 'https://economikit.org/'
-title = 'Economikit Alliance'
-theme = 'ek'
+baseURL: https://economikit.org/
+title: Economikit Alliance
+theme: ek
 
 # Book configuration
-disablePathToLower = true
-enableGitInfo = true
+disablePathToLower: true
+enableGitInfo: true
+
+permalinks:
+  posts: /:year/:month/:slug/
 
 # (Optional) Set Google Analytics if you use it to track your website.
 # Always put it on the top of the configuration file, otherwise it won't work
@@ -16,22 +19,22 @@ enableGitInfo = true
 
 # (Optional) Theme is intended for documentation use, therefore it doesn't render taxonomy.
 # You can remove related files with config below
-disableKinds = ["taxonomyTerm", "taxonomy"]
+disableKinds:
 
 # Needed for mermaid/katex shortcodes
-[markup]
-[markup.goldmark.renderer]
-  unsafe = true
-
-[markup.tableOfContents]
-  startLevel = 1
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
 
 # Multi-lingual mode config
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
-[languages]
-[languages.en]
-  languageName = 'English'
-  contentDir = 'content'
-  weight = 1
+languages:
+  en:
+    languageName: English
+    contentDir: content
+    weight: 1
