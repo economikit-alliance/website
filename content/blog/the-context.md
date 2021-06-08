@@ -9,12 +9,6 @@ description: The following attempts to distill the shared context we have develo
 
 ---
 
-# The Context - Why?
-
-[TOC]
-
-## Introduction
-
 The following attempts to distill the shared context we have developed over the last year and a half. The guiding question motivating this work is, "what is it about the confluence of digital technology and global economic circuits that needs to change?"
 
 Economikit emerged in reaction to a debt-creating engine meant to produce capital from capital, in a negative loop reinforcing the system's self-perpetuation. Our work lives as a set of experiments responding to this situation. 
