@@ -1,12 +1,12 @@
 ---
-title: The Context - Why?
-date: "2021-05-20"
+title: Example Post
+date: "2021-03-16"
 categories:
 - organisation & mission
 tags:
-- context
+- another tag
 - questions
-- example tag
+- example tag two
 description: The following attempts to distill the shared context we have developed over the last year and a half. The guiding question motivating this work is, "what is it about the confluence of digital technology and global economic circuits that needs to change?"
 
 ---

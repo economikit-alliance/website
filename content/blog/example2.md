@@ -1,13 +1,13 @@
 ---
-title: The Context - Why?
-date: "2021-05-20"
+title: Example Post with a long title, very descriptive
+date: "2021-06-01"
 categories:
 - organisation & mission
 tags:
-- context
+- another very long tag
 - questions
-- example tag
-description: The following attempts to distill the shared context we have developed over the last year and a half. The guiding question motivating this work is, "what is it about the confluence of digital technology and global economic circuits that needs to change?"
+- example tag two
+description: The following attempts to distill the shared context we have developed over the last year and a half?"
 
 ---
 
