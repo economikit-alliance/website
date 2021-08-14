@@ -44,4 +44,4 @@ The journey toward a thriving future is long and unknowable. Our work in how we 
 
 We seek to make the organisation the kit, and the kit the organisation. To create artifacts through our lived experience and the guidance of others which empower groups of all kinds in radical and emancipatory ways.
 
-- [More about our shared context](:TODO:)
+- [More about our shared context](/blog/2021/05/the-context-why/)
