@@ -6,6 +6,7 @@ categories:
 tags: 
 - context
 - strategy
+summary: What anchors or waypoints help us make coherent decisions about who to align with or what to work on?
 ---
 
 # Engagement criteria
