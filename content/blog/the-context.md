@@ -7,7 +7,7 @@ categories:
 tags:
 - context
 - questions
-
+description: "What is it about the confluence of digital technology and global economic circuits that needs to change?"
 ---
 
 The following attempts to distill the shared context we have developed over the last year and a half. The guiding question motivating this work is, "what is it about the confluence of digital technology and global economic circuits that needs to change?"
