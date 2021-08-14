@@ -10,17 +10,28 @@ tags:
 
 # Engagement criteria
 
-[TOC]
+<!-- MarkdownTOC -->
+
+- [Goal anchors](#goal-anchors)
+    - [Uphold individual and collective sovereignty](#uphold-individual-and-collective-sovereignty)
+    - [Facilitate agency and autonomy](#facilitate-agency-and-autonomy)
+    - [Implement contextual solutions](#implement-contextual-solutions)
+    - [Practise generative finance](#practise-generative-finance)
+    - [Reduce inequity](#reduce-inequity)
+    - [Build commons](#build-commons)
+    - [Create relationships](#create-relationships)
+    - [Hold awareness for subjectivity & diversity](#hold-awareness-for-subjectivity--diversity)
+- [Constraint anchors](#constraint-anchors)
+    - [Time available](#time-available)
+    - [Sustainability of the work](#sustainability-of-the-work)
+    - [Space for reflection](#space-for-reflection)
+
+<!-- /MarkdownTOC -->
 
 
 
-> For a contextual overview of the reasoning behind this document, see our piece on [Considerations for a Robust Ethic](/NX-YrG5oSp64bDuP9eH2Kw).
 
-
-
-
-
-
+<!-- :TODO: publish & link "considerations for a robust ethic" -->
 
 
 
