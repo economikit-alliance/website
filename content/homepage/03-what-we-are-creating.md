@@ -6,7 +6,7 @@ We build and consult on the use of software tools which provision for the necess
 
 ### ValueFlows
 
-Meeting the challenges of our times requires not just a new economic system, but a new measurement system. The ValueFlows protocol reimagines accounting as a rich multidimensional weave of attributable information that can be deeply representative of reality.
+Meeting the challenges of our times requires not just a new economic system, but a new measurement system. The ValueFlows protocol reimagines accounting as a rich multidimensional weave of attributable information that can be deeply representative of reality, and enables P2P coordination of all kinds of resource flows in networks.
 
 - [More about ValueFlows and REA Accounting](https://valueflo.ws)
 - [More about the modular ValueFlows GraphQL Protocol](https://lab.allmende.io/valueflows/vf-schemas/vf-graphql)
@@ -28,15 +28,12 @@ What is an economic system without a means of interacting with it? ValueFlows UI
 
 ### Neighbourhoods
 
-A design philosophy for [Holochain](https://holochain.org/) hApps that empowers groups to intentionally create and share their specific cultural patterns. By articulating 'specific culture' through the assemblage of 'generic tools' and 'reputation scores', communities and micro-networks build contextual pathways for the flow of capital and content.
+A design philosophy for [Holochain](https://holochain.org/) hApps that empowers groups to intentionally create and share their specific cultural patterns. By articulating 'specific culture' through the assemblage of 'generic tools' and 'cultural computations', communities and micro-networks build contextual pathways for the flow of capital and content. Neighbourhoods is also facilitating a marketplace to foster a thriving, replenish-able flow of generic, modular, agent-centric apps/widgets.
+
+The foundations of this work are rooted in Sacred Capital's design for a multi-dimensional wealth system that fosters interdependent, locally-contextual human and ecological relationships.
 
 - [More about Neighbourhoods](https://neighbourhoods.network)
-
-### Sacred Capital
-
-Reputation infrastructure for the distributed economy. Sacred Capital is building a formal language for cultural articulation, coupled with a *Reputation Interchange* that enables agents to port and mediate reputational data across contexts. By activating scalable reputation currencies, they hope to build a multi-dimensional wealth system that fosters interdependent, locally-contextual human and ecological relationships.
-
-- [More about Sacred Capital](https://www.sacred.capital)
+- [More about Sacred Capital](https://sacred.capital)
 
 ## "The Kit"
 
