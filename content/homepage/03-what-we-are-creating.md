@@ -6,7 +6,7 @@ We build and consult on the use of software tools which provision for the necess
 
 ### ValueFlows
 
-Meeting the challenges of our times requires not just a new economic system, but a new measurement system. The ValueFlows protocol reimagines accounting as a rich multidimensional weave of attributable information that can be deeply representative of reality, and enables P2P coordination of all kinds of resource flows in networks.
+Meeting the challenges of our times requires not just a new economic system, but a new vocabulary to enable it. ValueFlows reimagines accounting as the tracking and coordination of production, distribution, and exchange of all kinds of resources; from goods and services and energy, to knowledge, to currencies, to "[current-sees](https://medium.com/metacurrency-project/currencies-are-records-of-currents-f4c6cdc809be)"; in motion in fractal P2P economic networks.
 
 - [More about ValueFlows and REA Accounting](https://valueflo.ws)
 - [More about the modular ValueFlows GraphQL Protocol](https://lab.allmende.io/valueflows/vf-schemas/vf-graphql)
